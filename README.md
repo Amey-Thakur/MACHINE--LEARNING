@@ -52,6 +52,4 @@
 
 <p align="center"> <b> 👉🏻 Presented as a part of the 3rd Semester Project @ University of Windsor 👈🏻 <b> </p>
 
-<p align="center"> <b> 👷 Project Authors: Amey Thakur, Jithin Gijo and Ritika Agarwal (Batch of 2024) <b> </p>
- 
 <p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
