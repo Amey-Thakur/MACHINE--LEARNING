@@ -227,7 +227,7 @@ A detailed record of the technical presentation on regression analysis delivered
 This study investigates and implements the **Text2Video-Zero** approach, enabling the generation of temporally coherent videos from text prompts *without* the need for large-scale video model training. The implementation focuses on modifying specific **Self-Attention** mechanisms within pre-trained diffusion models to preserve identity and background consistency across frames. The final system delivers a complete end-to-end pipeline, ranging from **Tokenization** and **Embedding** to **Video Generation**, deployed via a reactive web interface.
 
 > [!TIP]
-> **Zero-Shot Synthesis** represents a transformative shift in Generative AI; it allows the creation of dynamic video content by adapting pre-existing image models rather than requiring expensive, large-scale video training. This approach makes high-fidelity motion synthesis more accessible by focusing on **temporal consistency**—ensuring that characters and backgrounds remain stable across every frame.
+> **Zero-Shot Synthesis** represents a transformative shift in Generative AI; it allows the creation of dynamic video content by adapting pre-existing image models rather than requiring expensive, large-scale video training. This approach makes high-fidelity motion synthesis more accessible by focusing on **temporal consistency**: ensuring that characters and backgrounds remain stable across every frame.
 
 ### Resources
 | # | Milestone | Date |
