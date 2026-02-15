@@ -295,7 +295,7 @@ A granular record of peer-led technical research presentations and computational
      ========================================================================================= -->
 
 ## Syllabus
-> **[Official GENG 8900 Syllabus](Final_GENG8900-MachineLearning-CourseSyllabus-Fall-2023.pdf)**  
+> **[Official ELEC 8900 Syllabus](Final_ELEC8900-MachineLearning-CourseSyllabus-Fall-2023.pdf)**  
 > Complete graduate-level syllabus document for the **Fall 2023** session, including detailed course outcomes, assessment criteria, and module specifications for Machine Learning and Pattern Recognition.
 
 > [!IMPORTANT]
