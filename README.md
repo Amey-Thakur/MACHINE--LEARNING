@@ -195,7 +195,7 @@ This module bridges the gap between theoretical probability and applied data sci
 > **Variable Isolation**: In high-dimensional research, identifying the true "drivers" of an outcome requires more than simple observation. Multiple Linear Regression serves as a technical filter, allowing researchers to mathematically isolate the weight of each individual predictor. This process ensures that our models capture the unique contribution of every input, providing a clear roadmap for navigating complex, multifaceted data systems.
 
 <div align="center">
-  <img src="In-Class%20Presentation/Multiple%20regression.gif" width="90%" alt="Multiple Linear Regression Animation">
+  <img src="In-Class%20Presentation/Multiple%20regression.gif" width="70%" alt="Multiple Linear Regression Animation">
 </div>
 <br>
 
