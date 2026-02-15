@@ -198,6 +198,8 @@ This module bridges the gap between theoretical probability and applied data sci
   <img src="In-Class%20Presentation/Multiple%20regression.gif" width="90%" alt="Multiple Linear Regression Animation">
 </div>
 
+This visualization demonstrates the convergence of a **Multiple Linear Regression** model using an iterative **Gradient Descent** optimization algorithm. By processing two independent variables ($x_1, x_2$) against a dependent target ($y$), the animation illustrates how the model's coefficients ($w_1, w_2$) and bias ($b$) are dynamically adjusted to minimize the **Mean Squared Error (MSE)**. In this 3D high-dimensional space, the optimization path represents the pursuit of a global minimum on the loss surface, effectively finding the 'plane of best fit' that captures the underlying statistical relationship within the dataset. This computational process is fundamental to predictive modeling, transforming raw inputs into a mathematically verified framework for future forecasting.
+
 ### Multiple Linear Regression (Group Presentation) &middot; *September 29, 2023*
 
 > [!NOTE]
