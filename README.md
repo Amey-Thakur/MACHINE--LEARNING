@@ -275,29 +275,6 @@ A comprehensive archival log documenting pedagogical discourse across fourteen m
 | 13 | Dec. 1 | **Re-Enforcement Learning**<br>Course Wrap-Up | - |
 | 14-15 | Dec. 9-20 | **Final Exam** | - |
 
----
-
-<!-- =========================================================================================
-                                     SYLLABUS SECTION
-     ========================================================================================= -->
-
-## Syllabus
-> **[Official ELEC 8900 Syllabus](View%20My%20Classes%20-%20Fall%202023.pdf)**
-> Complete graduate-level syllabus document for the **Fall 2023** session, including detailed course outcomes, assessment criteria, and module specifications for Machine Learning.
-
-> [!IMPORTANT]
-> The course grade is evaluated as follows:
-
-| Method of Evaluation | % of Final Grade |
-|:---|:-:|
-| Online assignments (DataCamp) | 20% |
-| In-class Presentation | 10% |
-| Course Project | 30% |
-| Final Exam | 40% |
-
----
-
----
 
 <!-- =========================================================================================
                                      SYLLABUS SECTION
