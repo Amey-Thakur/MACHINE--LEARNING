@@ -204,7 +204,7 @@ A detailed record of the technical presentation on regression analysis delivered
 
 ### [🚀 Zero-Shot Video Generation](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION)
 
-**Design and implementation of a Zero-Shot Video Generation system.**
+**Adapting Pre-trained Diffusion Models for Zero-Shot Text-to-Video Synthesis**
 
 [![Project](https://img.shields.io/badge/Project-Zero--Shot%20Video%20Generation-blue.svg)](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION) [![Stack](https://img.shields.io/badge/Stack-Generative%20AI%20%7C%20Python-orange.svg)](https://www.python.org/) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION)
 
@@ -224,7 +224,7 @@ A detailed record of the technical presentation on regression analysis delivered
 > *Special thanks to **Jithin Gijo Varghese** and **Ritika Agarwal** for their collaborative excellence and technical proficiency. We worked closely to implement and validate complex machine learning architectures, and their contributions were essential in transforming theoretical concepts into robust engineering solutions.*
 
 ### Project Overview
-This project explores the frontier of Generative AI, focusing on Zero-Shot Video Generation. It involves extensive research, proposal development, and the creation of a comprehensive report and video demonstration, showcasing the capability to generate video content without task-specific training data.
+This study investigates and implements the **Text2Video-Zero** approach, enabling the generation of temporally coherent videos from text prompts *without* the need for large-scale video model training. The implementation focuses on modifying specific **Self-Attention** mechanisms within pre-trained diffusion models to preserve identity and background consistency across frames. The final system delivers a complete end-to-end pipeline—from **Tokenization** and **Embedding** to **Video Generation**—deployed via a reactive web interface.
 
 > [!NOTE]
 > The project accounts for **30%** of the final course grade and demonstrates advanced proficiency in applying state-of-the-art machine learning models.
