@@ -107,30 +107,55 @@ Verified records of practical skill acquisition and academic assessments:
 ### Professional Certifications
 Industry-recognized certifications in Machine Learning and Data Science:
 
-#### 1. Supervised Learning with scikit-learn
-**Focus Area**: Classification and regression algorithms using Python.
+<div align="center">
 
-![Supervised Learning with scikit-learn](Assignments/Amey%20Thakur%20-%20DataCamp%20Supervised%20Learning%20with%20scikit-learn.png)
+<h3>Supervised Learning with scikit-learn</h3>
+<i>Classification and regression algorithms using Python.</i>
 
-#### 2. Unsupervised Learning in Python
-**Focus Area**: Clustering (K-Means) and dimensionality reduction (PCA).
+<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Supervised%20Learning%20with%20scikit-learn.png" width="100%" alt="Supervised Learning with scikit-learn">
 
-![Unsupervised Learning in Python](Assignments/Amey%20Thakur%20-%20DataCamp%20Unsupervised%20Learning%20in%20Python.png)
+</div>
+<br>
 
-#### 3. Linear Classifiers in Python
-**Focus Area**: Logistic Regression and Support Vector Machines (SVMs).
+<div align="center">
 
-![Linear Classifiers in Python](Assignments/Amey%20Thakur%20-%20DataCamp%20Linear%20Classifiers%20in%20Python.png)
+<h3>Unsupervised Learning in Python</h3>
+<i>Clustering (K-Means) and dimensionality reduction (PCA).</i>
 
-#### 4. Preprocessing for Machine Learning in Python
-**Focus Area**: Feature engineering, scaling, and data preparation pipelines.
+<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Unsupervised%20Learning%20in%20Python.png" width="100%" alt="Unsupervised Learning in Python">
 
-![Preprocessing for Machine Learning in Python](Assignments/Amey%20Thakur%20-%20DataCamp%20Preprocessing%20for%20Machine%20Learning%20in%20Python.png)
+</div>
+<br>
 
-#### 5. Introduction to Deep Learning in Python
-**Focus Area**: Neural networks and deep learning architecture fundamentals.
+<div align="center">
 
-![Introduction to Deep Learning in Python](Assignments/Amey%20Thakur%20-%20DataCamp%20Introduction%20to%20Deep%20Learning%20in%20Python.png)
+<h3>Linear Classifiers in Python</h3>
+<i>Logistic Regression and Support Vector Machines (SVMs).</i>
+
+<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Linear%20Classifiers%20in%20Python.png" width="100%" alt="Linear Classifiers in Python">
+
+</div>
+<br>
+
+<div align="center">
+
+<h3>Preprocessing for Machine Learning in Python</h3>
+<i>Feature engineering, scaling, and data preparation pipelines.</i>
+
+<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Preprocessing%20for%20Machine%20Learning%20in%20Python.png" width="100%" alt="Preprocessing for Machine Learning in Python">
+
+</div>
+<br>
+
+<div align="center">
+
+<h3>Introduction to Deep Learning in Python</h3>
+<i>Neural networks and deep learning architecture fundamentals.</i>
+
+<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Introduction%20to%20Deep%20Learning%20in%20Python.png" width="100%" alt="Introduction to Deep Learning in Python">
+
+</div>
+<br>
 
 ---
 
