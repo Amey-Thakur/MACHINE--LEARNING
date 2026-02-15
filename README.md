@@ -48,7 +48,7 @@ The curriculum encompasses several key machine learning domains:
 ### Repository Purpose
 This repository represents a curated collection of study materials, reference books, supplemental resources, assignment reports, course projects, and technical presentations. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
 
-As Artificial Intelligence technologies evolve, the fundamental principles remain the bedrock of modern engineering. This repository serves as my intellectual reference point: a resource I can return to for reviewing algorithms, refreshing theoretical concepts, and strengthening technical understanding.
+As the field of Artificial Intelligence evolves, the fundamental principles remain the bedrock of modern engineering. This repository serves as my intellectual reference point: a resource I can return to for reviewing algorithms, refreshing theoretical concepts, and strengthening technical understanding.
 
 **Why this repository exists:**
 
