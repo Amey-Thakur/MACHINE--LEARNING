@@ -260,10 +260,10 @@ A comprehensive archival log documenting pedagogical discourse across fourteen w
 | 5 | **Week 05** | October 06, 2023 | Decision Trees, Random Forest<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
 | 6 | **Week 06** | October 13, 2023 | **No Classes – Reading Week** | — |
 | 7 | **Week 07** | October 20, 2023 | Neural Networks<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
-| 8 | **Week 08** | October 27, 2023 | Neural Networks (Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
-| 9 | **Week 09** | November 03, 2023 | Unsupervised Learning (Generative Adversarial Networks (GANs), K-means, Expectation Maximization (EM) Algorithm)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
+| 8 | **Week 08** | October 27, 2023 | Neural Networks: Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
+| 9 | **Week 09** | November 03, 2023 | Unsupervised Learning: Generative Adversarial Networks (GANs), K-means, and Expectation Maximization (EM) Algorithm<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
 | 10 | **Week 10** | November 10, 2023 | K-means Clustering, Expectation Maximization (EM) Algorithm (Fuzzy/Spectral/Hierarchical Clustering)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
-| 11 | **Week 11** | November 17, 2023 | Dimensionality Reduction (Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), Reinforcement Learning (RL)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
+| 11 | **Week 11** | November 17, 2023 | Dimensionality Reduction: Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), and Reinforcement Learning (RL)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
 | 12 | **Week 12** | November 24, 2023 | [Machine Learning Project Presentations](ML%20Project) | — |
 | 13 | **Week 13** | December 01, 2023 | Reinforcement Learning (RL) & Course Wrap-Up | — |
 | 14 | **Week 14-15** | December 09-20, 2023 | **Final Exam** | — |
