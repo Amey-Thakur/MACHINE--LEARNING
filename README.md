@@ -195,7 +195,7 @@ This module bridges the gap between theoretical probability and applied data sci
 > **Variable Isolation**: In high-dimensional research, identifying the true "drivers" of an outcome requires more than simple observation. Multiple Linear Regression serves as a technical filter, allowing researchers to mathematically isolate the weight of each individual predictor. This process ensures that our models capture the unique contribution of every input, providing a clear roadmap for navigating complex, multifaceted data systems.
 
 <div align="center">
-  <video src="In-Class%20Presentation/Multiple%20regression.mp4" width="90%"></video>
+  <img src="In-Class%20Presentation/Multiple%20regression.gif" width="90%" alt="Multiple Linear Regression Animation">
 </div>
 
 ### Multiple Linear Regression (Group Presentation) &middot; *September 29, 2023*
@@ -209,8 +209,9 @@ This module bridges the gap between theoretical probability and applied data sci
 | 2 | [**Presentation**](Week%204%20-%20In-class%20Presentations/2-Multiple%20Linear%20Regression.pdf) | Presentation | Final peer-reviewed research slides (Final Version) |
 | 3 | [**Presentation Notes**](In-Class%20Presentation/PPT%20Notes.pdf) | Documentation | Technical speaker notes and delivery guidelines for the research presentation |
 | 4 | [**Jupyter Notebook**](In-Class%20Presentation/Relationship%20between%20Hours%20Studied%20and%20Grades%20Received.ipynb) | Notebook | Computational implementation of the regression model |
-| 5 | [**Visualization**](In-Class%20Presentation/Multiple%20regression.mp4) | Video | Visualization of Multiple Linear Regression |
-| 6 | [**Academic Template**](In-Class%20Presentation/Presentations_Template.pptx) | Template | Standardized scholarly presentation framework |
+| 5 | [**Visualization (MP4)**](In-Class%20Presentation/Multiple%20regression.mp4) | Video | High-fidelity MP4 animation of the Multiple Linear Regression model |
+| 6 | [**Visualization (GIF)**](In-Class%20Presentation/Multiple%20regression.gif) | Animation | Lightweight GIF animation for rapid scholarly review |
+| 7 | [**Academic Template**](In-Class%20Presentation/Presentations_Template.pptx) | Template | Standardized scholarly presentation framework |
 
 ---
 
