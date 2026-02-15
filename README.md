@@ -224,18 +224,15 @@ A detailed record of the technical presentation on regression analysis delivered
 > *Special thanks to **Jithin Gijo Varghese** and **Ritika Agarwal** for their meaningful contributions, guidance, and support that helped shape this work.*
 
 ### Project Overview
-This study investigates and implements the **Text2Video-Zero** approach, enabling the generation of temporally coherent videos from text prompts *without* the need for large-scale video model training. The implementation focuses on modifying specific **Self-Attention** mechanisms within pre-trained diffusion models to preserve identity and background consistency across frames. The final system delivers a complete end-to-end pipeline—from **Tokenization** and **Embedding** to **Video Generation**—deployed via a reactive web interface.
-
-> [!NOTE]
-> The project accounts for **30%** of the final course grade and demonstrates advanced proficiency in applying state-of-the-art machine learning models.
+This study investigates and implements the **Text2Video-Zero** approach, enabling the generation of temporally coherent videos from text prompts *without* the need for large-scale video model training. The implementation focuses on modifying specific **Self-Attention** mechanisms within pre-trained diffusion models to preserve identity and background consistency across frames. The final system delivers a complete end-to-end pipeline, ranging from **Tokenization** and **Embedding** to **Video Generation**, deployed via a reactive web interface.
 
 ### Resources
-| # | Milestone | Deliverables |
-| :-: | :--- | :--- |
-| 1 | **Proposal** | [Project Proposal](ML%20Project/Zero-Shot%20Video%20Generation%20-%20Project%20Proposal.pdf) |
-| 2 | **Presentation** | [Project Presentation](ML%20Project/Zero-Shot%20Video%20Generation.pptx) |
-| 3 | **Final Report** | [Final Project Report](ML%20Project/Zero-Shot%20Video%20Generation%20Project%20Report.pdf) |
-| 4 | **Video Demo** | [Video Demonstration](ML%20Project/Zero-Shot%20Video%20Generation.mp4) |
+| # | Milestone | Date | Deliverables |
+| :-: | :--- | :--- | :--- |
+| 1 | **Proposal** | Oct. 1 | [Project Proposal](ML%20Project/Zero-Shot%20Video%20Generation%20-%20Project%20Proposal.pdf) |
+| 2 | **Presentation** | Nov. 24 | [Project Presentation](ML%20Project/Zero-Shot%20Video%20Generation.pptx) |
+| 3 | **Final Report** | Nov. 19 | [Final Project Report](ML%20Project/Zero-Shot%20Video%20Generation%20Project%20Report.pdf) |
+| 4 | **Video Demo** | Nov. 19 | [Video Demonstration](ML%20Project/Zero-Shot%20Video%20Generation.mp4) |
 
 ---
 
