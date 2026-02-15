@@ -200,16 +200,20 @@ A detailed record of the technical presentation on regression analysis delivered
 
 ## Machine Learning Project
 
-### [🚀 Zero-Shot Video Generation](ML%20Project)
+<div align="center">
+
+### [🚀 Zero-Shot Video Generation](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION)
+
 **Design and implementation of a Zero-Shot Video Generation system.**
 
-[![Project](https://img.shields.io/badge/Project-Zero--Shot%20Video%20Generation-blue.svg)](ML%20Project) [![Stack](https://img.shields.io/badge/Stack-Generative%20AI%20%7C%20Python-orange.svg)](ML%20Project) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](ML%20Project)
+[![Project](https://img.shields.io/badge/Project-Zero--Shot%20Video%20Generation-blue.svg)](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION) [![Stack](https://img.shields.io/badge/Stack-Generative%20AI%20%7C%20Python-orange.svg)](https://www.python.org/) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION)
 
 </div>
 
 <div align="center">
 
 ### Authors
+
 | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39)](https://orcid.org/0000-0001-5644-1575) |
 | :---: |
 
@@ -217,7 +221,7 @@ A detailed record of the technical presentation on regression analysis delivered
 
 > [!IMPORTANT]
 > ### 🤝🏻 Special Acknowledgement
-> *Special thanks to my teammates for their collaborative excellence and shared commitment that helped shape this work.*
+> *Special thanks to **Jithin Gijo Varghese** and **Ritika Agarwal** for their collaborative excellence and technical proficiency. We worked closely to implement and validate complex machine learning architectures, and their contributions were essential in transforming theoretical concepts into robust engineering solutions.*
 
 ### Project Overview
 This project explores the frontier of Generative AI, focusing on Zero-Shot Video Generation. It involves extensive research, proposal development, and the creation of a comprehensive report and video demonstration, showcasing the capability to generate video content without task-specific training data.
