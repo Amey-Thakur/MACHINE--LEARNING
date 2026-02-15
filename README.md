@@ -276,6 +276,9 @@ A comprehensive archival log documenting pedagogical discourse across fourteen m
 | 14-15 | Dec. 9-20 | **Final Exam** | - |
 
 
+
+---
+
 <!-- =========================================================================================
                                      SYLLABUS SECTION
      ========================================================================================= -->
