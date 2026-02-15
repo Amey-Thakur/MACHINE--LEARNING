@@ -26,8 +26,12 @@ A curated collection of authoritative textbooks and academic references cited in
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
-| 1 | [Detailed Book List](Reference%20Books/Detailed%20Book%20List.txt) | Complete bibliography of course references including Bishop, Hastie, and Sutton. |
-| 2 | [Reference Books Directory](Reference%20Books) | Directory containing the reference list. |
+| 1 | [Learning From Data - Abu-Mostafa, Magdon-Ismail, Lin](Reference%20Books/Learning%20From%20Data%20-%20Abu-Mostafa%20Magdon-Ismail%20Lin.pdf) | Mathematical foundations of learning, VC dimension, and regularization. |
+| 2 | [Pattern Recognition and Machine Learning - Bishop](Reference%20Books/Pattern%20Recognition%20and%20Machine%20Learning%20-%20Christopher%20Bishop.pdf) | Bayesian inference and probabilistic graphical models. |
+| 3 | [The Elements of Statistical Learning - Hastie, Tibshirani, Friedman](Reference%20Books/The%20Elements%20of%20Statistical%20Learning%20-%20Trevor%20Hastie%20Robert%20Tibshirani.pdf) | Comprehensive coverage of supervised and unsupervised learning algorithms. |
+| 4 | [Reinforcement Learning: An Introduction - Sutton, Barto](Reference%20Books/Reinforcement%20Learning%20An%20Introduction%20-%20Richard%20Sutton%20Andrew%20Barto.pdf) | The definitive guide to RL algorithms and theory. |
+| 5 | [Information Theory, Inference, and Learning Algorithms - MacKay](Reference%20Books/Information%20Theory%20Inference%20and%20Learning%20Algorithms%20-%20David%20MacKay.pdf) | Deep dive into information theory and neural networks. |
+| 6 | [Bayesian Reasoning and Machine Learning - Barber](Reference%20Books/Bayesian%20Reasoning%20and%20Machine%20Learning%20-%20David%20Barber.pdf) | Graphical models and Bayesian methods for machine learning. |
 
 ### Personal Preparation
 Administrative records and preparation materials for the Fall 2023 session:
