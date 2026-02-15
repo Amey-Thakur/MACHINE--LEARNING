@@ -188,7 +188,7 @@ This module bridges the gap between theoretical probability and applied data sci
 | # | Resource | Category | Description |
 | :-: | :--- | :--- | :--- |
 | 1 | [**Presentation (Version 1)**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pdf) | Presentation | Original technical research slides (Initial Version) |
-| 2 | [**Presentation**](Week%204%20-%20In-class%20Presentations/2-Multiple%20Linear%20Regression.pdf) | Presentation | Final peer-reviewed research slides (Scholarly Record) |
+| 2 | [**Presentation**](Week%204%20-%20In-class%20Presentations/2-Multiple%20Linear%20Regression.pdf) | Presentation | Final peer-reviewed research slides (Final Version) |
 | 3 | [**Presentation Notes**](In-Class%20Presentation/PPT%20Notes.pdf) | Documentation | Technical speaker notes and delivery guidelines for the research presentation |
 | 4 | [**Jupyter Notebook**](In-Class%20Presentation/Relationship%20between%20Hours%20Studied%20and%20Grades%20Received.ipynb) | Notebook | Computational implementation of the regression model |
 | 5 | [**Visualization**](In-Class%20Presentation/Multiple%20regression.mp4) | Video | Visualization of Multiple Linear Regression |
