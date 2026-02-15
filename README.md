@@ -276,7 +276,7 @@ A comprehensive archival log documenting pedagogical discourse across fourteen w
 A granular record of peer-led technical research presentations and computational case studies conducted during the Fall 2023 session.
 
 > [!NOTE]
-> These peer-led research presentations constitute an integral component of the formal curriculum, bridging theoretical frameworks with applied computational case studies. As a cornerstone of the pedagogical architecture, the research-driven insights and technical methodologies presented herein are directly integrated into the syllabus and systematically assessed within the final examination.
+> These peer-led presentations form an essential part of the course curriculum, where student-driven research bridges the gap between machine learning theory and applied computational modeling. because these topics are core modules of the syllabus, the technical methodologies and insights shared in these sessions are primary material for the final examination.
 
 | # | Date | Topic | Presentation |
 | :-: | :---: | :--- | :---: |
