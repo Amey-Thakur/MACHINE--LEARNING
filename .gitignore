@@ -1,0 +1,35 @@
+# Machine Learning - Academic Repository
+# Specialized .gitignore for Machine Learning scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python and Jupyter configuration
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+
+# Word Processing / Document artifacts
+~$*
+*.bak
+*.sav
+*.old
