@@ -276,7 +276,7 @@ A comprehensive archival log documenting pedagogical discourse across fourteen w
 A granular record of peer-led technical research presentations and computational case studies conducted during the Fall 2023 session.
 
 > [!NOTE]
-> Students are responsible for all material presented in class as part of the in-class assignment presentations. The final exam contains questions derived from these research-driven topics.
+> These peer-led research presentations constitute an integral component of the formal curriculum, bridging theoretical frameworks with applied computational case studies. As a cornerstone of the pedagogical architecture, the research-driven insights and technical methodologies presented herein are directly integrated into the syllabus and systematically assessed within the final examination.
 
 | # | Date | Topic | Presentation |
 | :-: | :---: | :--- | :---: |
