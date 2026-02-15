@@ -252,21 +252,21 @@ A comprehensive archival log documenting pedagogical discourse across fourteen w
 > Machine Learning is not merely about algorithms; it is the **bridge between data and intelligent decision-making**. Every module below focuses on the critical translation from **Theoretical Models to Applied Systems**, enabling the design and verification of complex learning architectures.
 
 | # | Week | Date | Topic/Activity | Lecture Slides |
-| :-: | :---: | :---: | :--- | :---: | :--- |
-| 1 | **Week 01** | September 08, 2023 | Introduction to Machine Learning | [View](Week%201%20-%20Introduction%20to%20Machine%20Learning/Week1_Introduction%20to%20ML.pdf) | — |
-| 2 | **Week 02** | September 15, 2023 | Data and its processing in Machine Learning | [View](Week%202%20-%20Data%20in%20Machine%20Learning/Week2-Data%20and%20its%20processing.pdf) | <ul><li>[Data Science Public Datasets](Week%202%20-%20Data%20in%20Machine%20Learning/Data%20Science%20Public%20Datasets.pdf)</li><li>[Datasets for Machine Learning](Week%202%20-%20Data%20in%20Machine%20Learning/Datasets%20for%20Machine%20Learning.txt)</li><li>[Image Datasets](Week%202%20-%20Data%20in%20Machine%20Learning/Image%20Datasets.txt)</li></ul> |
-| 3 | **Week 03** | September 22, 2023 | Supervised Learning | [View](Week%203%20-%20Python%20and%20Supervised%20Learning/Week3-Python%20and%20Supervised%20Learning.pdf) | — |
-| 4 | **Week 04** | September 29, 2023 | Supervised Learning (Linear Methods for Regression, Logistic Regression, Multiclass Classification)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — | <ul><li>[Media Marketing Dataset](Week%204%20-%20In-class%20Presentations/3-Linear%20Regression%20-%20Example%20(Media%20Marketing).csv)</li><li>[Linear Regression Notebook](Week%204%20-%20In-class%20Presentations/3-Linear%20Regression%20-%20Example%20(Media%20Marketing).ipynb)</li><li>[See Presentations](#in-class-assignment-presentations)</li></ul> |
-| 5 | **Week 05** | October 06, 2023 | Decision Trees, Random Forest<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — | <ul><li>[Decision Tree Regression (Research)](Week%205%20-%20In-class%20Presentations/2-Decision_Tree_Regression%20.pdf)</li><li>[See Presentations](#in-class-assignment-presentations)</li></ul> |
-| 6 | **Week 06** | October 13, 2023 | **No Classes – Reading Week** | — | — |
-| 7 | **Week 07** | October 20, 2023 | Neural Networks<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — | <ul><li>[Naive Bayes (Research Notes)](Week%207%20-%20In-class%20Presentations/1-Naive_Bayes_Classifiers.pptx)</li><li>[Non-Linear SVM](Week%207%20-%20In-class%20Presentations/3-Non-Linear_Support_Vector_Machines.pptx)</li><li>[See Presentations](#in-class-assignment-presentations)</li></ul> |
-| 8 | **Week 08** | October 27, 2023 | Neural Networks (CNN, RNN)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — | <ul><li>[CNN Architecture Research](Week%208%20-%20In-class%20Presentations/1-Convolutional%20Neural%20Networks%20(CNNs).pptx)</li><li>[RNN Foundations](Week%208%20-%20In-class%20Presentations/3-Recurrent%20Neural%20Networks%20(RNNs).pptx)</li><li>[See Presentations](#in-class-assignment-presentations)</li></ul> |
-| 9 | **Week 09** | November 03, 2023 | Unsupervised Learning (GANs, K-means, EM Algorithm)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — | <ul><li>[Fuzzy Clustering Notes](Week%209%20-%20In-class%20Presentations/5-Fuzzy%20Clustering%20Notes.pdf)</li><li>[See Presentations](#in-class-assignment-presentations)</li></ul> |
-| 10 | **Week 10** | November 10, 2023 | K-Mean, EM Algorithm (Fuzzy/Spectral/Hierarchical Clustering)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — | <ul><li>[PCA Research (Deep Dive I)](Week%2010%20-%20In-class%20Presentations/4-Dimensionality_Reduction_PCA.pptx)</li><li>[PCA Research (Deep Dive II)](Week%2010%20-%20In-class%20Presentations/6-Dimensionality_Reduction_PCA.pptx)</li><li>[See Presentations](#in-class-assignment-presentations)</li></ul> |
-| 11 | **Week 11** | November 17, 2023 | Dimensionality Reduction (PCA, LDA, Reinforcement Learning)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — | <ul><li>[Q-Learning Foundations](Week%2011%20-%20In-class%20Presentations/2-Reinforcement_Learning_Q-Learning.pptx)</li><li>[Reinforcement Learning Foundations](Week%2011%20-%20In-class%20Presentations/4-Reinforcement%20Learning_Policy%20Gradient%20methods.pptx)</li><li>[See Presentations](#in-class-assignment-presentations)</li></ul> |
-| 12 | **Week 12** | November 24, 2023 | [Machine Learning Project Presentations](ML%20Project) | — | [Project Portfolio](ML%20Project) |
-| 13 | **Week 13** | December 01, 2023 | Reinforcement Learning & Course Wrap-Up | — | — |
-| 14 | **Week 14-15** | December 09-20, 2023 | **Final Exam** | — | — |
+| :-: | :---: | :---: | :--- | :---: |
+| 1 | **Week 01** | September 08, 2023 | Introduction to Machine Learning | [View](Week%201%20-%20Introduction%20to%20Machine%20Learning/Week1_Introduction%20to%20ML.pdf) |
+| 2 | **Week 02** | September 15, 2023 | Data and its processing in Machine Learning | [View](Week%202%20-%20Data%20in%20Machine%20Learning/Week2-Data%20and%20its%20processing.pdf) |
+| 3 | **Week 03** | September 22, 2023 | Supervised Learning | [View](Week%203%20-%20Python%20and%20Supervised%20Learning/Week3-Python%20and%20Supervised%20Learning.pdf) |
+| 4 | **Week 04** | September 29, 2023 | Supervised Learning (Linear Methods for Regression, Logistic Regression, Multiclass Classification)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
+| 5 | **Week 05** | October 06, 2023 | Decision Trees, Random Forest<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
+| 6 | **Week 06** | October 13, 2023 | **No Classes – Reading Week** | — |
+| 7 | **Week 07** | October 20, 2023 | Neural Networks<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
+| 8 | **Week 08** | October 27, 2023 | Neural Networks (CNN, RNN)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
+| 9 | **Week 09** | November 03, 2023 | Unsupervised Learning (GANs, K-means, EM Algorithm)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
+| 10 | **Week 10** | November 10, 2023 | K-Mean, EM Algorithm (Fuzzy/Spectral/Hierarchical Clustering)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
+| 11 | **Week 11** | November 17, 2023 | Dimensionality Reduction (PCA, LDA, Reinforcement Learning)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — |
+| 12 | **Week 12** | November 24, 2023 | [Machine Learning Project Presentations](ML%20Project) | — |
+| 13 | **Week 13** | December 01, 2023 | Reinforcement Learning & Course Wrap-Up | — |
+| 14 | **Week 14-15** | December 09-20, 2023 | **Final Exam** | — |
 
 
 
