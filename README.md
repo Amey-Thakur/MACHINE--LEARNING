@@ -266,7 +266,7 @@ A comprehensive archival log documenting pedagogical discourse across fourteen w
 | 11 | **Week 11** | November 17, 2023 | Dimensionality Reduction (PCA, LDA, Reinforcement Learning)<br>*[In-class Assignment Presentations](#in-class-assignment-presentations)* | — | <ul><li>[LDA Research](Week%2011%20-%20In-class%20Presentations/1-Linear%20Discriminant%20Analysis.pptx)</li><li>[Q-Learning (I)](Week%2011%20-%20In-class%20Presentations/2-Reinforcement_Learning_Q-Learning.pptx)</li><li>[Q-Learning (II)](Week%2011%20-%20In-class%20Presentations/3-Reinforcement%20Learning%20-%20Q-Learning.pptx)</li><li>[Reinforcement Learning (I)](Week%2011%20-%20In-class%20Presentations/4-Reinforcement%20Learning_Policy%20Gradient%20methods.pptx)</li><li>[Reinforcement Learning (II)](Week%2011%20-%20In-class%20Presentations/5-Reinforcement%20Learning%20Policy%20Gradient%20methods.pptx)</li><li>[See Presentations](#in-class-assignment-presentations)</li></ul> |
 | 12 | **Week 12** | November 24, 2023 | [Machine Learning Project Presentations](ML%20Project) | — | [Project Portfolio](ML%20Project) |
 | 13 | **Week 13** | December 01, 2023 | Reinforcement Learning & Course Wrap-Up | — | — |
-| 14 | **Week 14-15** | December 09-20, 2023 | **Final Exam** (40%) | — | — |
+| 14 | **Week 14-15** | December 09-20, 2023 | **Final Exam** | — | — |
 
 
 
