@@ -336,7 +336,7 @@ This repository represents a comprehensive collection of study materials, refere
 ### Acknowledgments
 Grateful acknowledgment to **Dr. Yasser M. Alginahi** for his exceptional instruction in Machine Learning, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his thorough explanation of complex algorithms and neural networks, made the subject both accessible and engaging. His dedication to academic excellence in the field of artificial intelligence is gratefully acknowledged.
 
-Grateful acknowledgment to my Major Project teammates, **Jithin Gijo Varghese** and **Ritika Agarwal**, for their collaborative excellence and shared commitment throughout the semester. Our collective efforts in synthesizing technical information and developing comprehensive engineering reports were fundamental to achieving our academic goals and major projects.
+Grateful acknowledgment to my Major Project teammates, **Jithin Gijo Varghese** and **Ritika Agarwal**, for their collaborative excellence and technical proficiency. We worked closely to implement and validate complex machine learning architectures, and their contributions were essential in transforming theoretical concepts into robust engineering solutions.
 
 Grateful acknowledgment to **Jason Horn**, **[Writing Support Desk](https://github.com/Amey-Thakur/WRITING-SUPPORT)**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
 
