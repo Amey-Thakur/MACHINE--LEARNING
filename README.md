@@ -303,7 +303,7 @@ Use these resources as templates for project proposals, reference materials for 
 These materials may serve as curriculum references, sample project benchmarks, or supplementary instructional content in machine learning. Attribution is appreciated when utilizing content.
 
 **For Researchers**  
-The project reports and architectural documentation may provide insights into scholarly machine learning patterns and professional engineering documentation structuring.
+The project reports and architectural documentation may provide insights into machine learning methodologies and professional engineering documentation structuring.
 
 ---
 
