@@ -107,7 +107,7 @@ Verified records of practical skill acquisition and academic assessments:
 ### Professional Certifications
 Industry-recognized certifications in Machine Learning and Data Science:
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center" width="50%">
       <h3>Supervised Learning with scikit-learn</h3>
