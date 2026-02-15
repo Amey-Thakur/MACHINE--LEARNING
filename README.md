@@ -53,7 +53,7 @@ As the field of Artificial Intelligence evolves, the fundamental principles rema
 **Why this repository exists:**
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom
-- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental ML principles
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental Machine Learning principles
 - **Academic Documentation**: To authentically document my learning journey through Machine Learning
 - **Community Contribution**: To share these resources with students and learners who may benefit from them
 
