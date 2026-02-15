@@ -111,8 +111,8 @@ Industry-recognized certifications in Machine Learning and Data Science:
 
 <h3>Supervised Learning with scikit-learn</h3>
 <i>Classification and regression algorithms using Python.</i>
-<br>
-<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Supervised%20Learning%20with%20scikit-learn.png" width="80%" alt="Supervised Learning with scikit-learn">
+<br><br>
+<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Supervised%20Learning%20with%20scikit-learn.png" width="90%" alt="Supervised Learning with scikit-learn">
 
 </div>
 <br>
@@ -121,8 +121,8 @@ Industry-recognized certifications in Machine Learning and Data Science:
 
 <h3>Unsupervised Learning in Python</h3>
 <i>Clustering (K-Means) and dimensionality reduction (PCA).</i>
-<br>
-<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Unsupervised%20Learning%20in%20Python.png" width="80%" alt="Unsupervised Learning in Python">
+<br><br>
+<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Unsupervised%20Learning%20in%20Python.png" width="90%" alt="Unsupervised Learning in Python">
 
 </div>
 <br>
@@ -131,8 +131,8 @@ Industry-recognized certifications in Machine Learning and Data Science:
 
 <h3>Linear Classifiers in Python</h3>
 <i>Logistic Regression and Support Vector Machines (SVMs).</i>
-<br>
-<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Linear%20Classifiers%20in%20Python.png" width="80%" alt="Linear Classifiers in Python">
+<br><br>
+<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Linear%20Classifiers%20in%20Python.png" width="90%" alt="Linear Classifiers in Python">
 
 </div>
 <br>
@@ -141,8 +141,8 @@ Industry-recognized certifications in Machine Learning and Data Science:
 
 <h3>Preprocessing for Machine Learning in Python</h3>
 <i>Feature engineering, scaling, and data preparation pipelines.</i>
-<br>
-<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Preprocessing%20for%20Machine%20Learning%20in%20Python.png" width="80%" alt="Preprocessing for Machine Learning in Python">
+<br><br>
+<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Preprocessing%20for%20Machine%20Learning%20in%20Python.png" width="90%" alt="Preprocessing for Machine Learning in Python">
 
 </div>
 <br>
@@ -151,8 +151,8 @@ Industry-recognized certifications in Machine Learning and Data Science:
 
 <h3>Introduction to Deep Learning in Python</h3>
 <i>Neural networks and deep learning architecture fundamentals.</i>
-<br>
-<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Introduction%20to%20Deep%20Learning%20in%20Python.png" width="80%" alt="Introduction to Deep Learning in Python">
+<br><br>
+<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Introduction%20to%20Deep%20Learning%20in%20Python.png" width="90%" alt="Introduction to Deep Learning in Python">
 
 </div>
 <br>
