@@ -182,13 +182,13 @@ A detailed record of the technical presentation on regression analysis delivered
 
 **Multiple Linear Regression (Group Presentation)**
 
-| Resource | Category | Description |
-|:---|:---|:---|
-| [**Multiple Linear Regression.pptx**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pptx) | Presentation | Technical slide deck presenting core concepts and case studies |
-| [**Multiple Linear Regression.pdf**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pdf) | Report | Detailed written report and statistical analysis |
-| [**Multiple regression.mp4**](In-Class%20Presentation/Multiple%20regression.mp4) | Video | Recorded delivery of the group presentation |
-| [**PPT Notes**](In-Class%20Presentation/PPT%20Notes.pdf) | Documentation | Supplemental technical notes for the presentation |
-| [**Presentation Template**](In-Class%20Presentation/Presentations_Template.pptx) | Template | Official academic presentation structure |
+| # | Resource | Category | Description |
+| :-: | :--- | :--- | :--- |
+| 1 | [**Multiple Linear Regression.pptx**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pptx) | Presentation | Technical slide deck presenting core concepts and case studies |
+| 2 | [**Multiple Linear Regression.pdf**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pdf) | Report | Detailed written report and statistical analysis |
+| 3 | [**Multiple regression.mp4**](In-Class%20Presentation/Multiple%20regression.mp4) | Video | Recorded delivery of the group presentation |
+| 4 | [**PPT Notes**](In-Class%20Presentation/PPT%20Notes.pdf) | Documentation | Supplemental technical notes for the presentation |
+| 5 | [**Presentation Template**](In-Class%20Presentation/Presentations_Template.pptx) | Template | Official academic presentation structure |
 
 ---
 
