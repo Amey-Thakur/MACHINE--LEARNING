@@ -281,28 +281,29 @@ A granular record of peer-led technical research presentations and computational
 | # | Date | Topic | Presentation |
 | :-: | :---: | :--- | :---: |
 | 1 | September 29, 2023 | Gradient Descent algorithm and its variants | [View](Week%204%20-%20In-class%20Presentations/1-Gradient%20Descent%20Algorithm%20and%20Its%20Variants.pdf) |
-| 2 | September 29, 2023 | Multiple Linear Regression | [View I](Week%204%20-%20In-class%20Presentations/2-Multiple%20Linear%20Regression.pdf) & [View II](Week%204%20-%20In-class%20Presentations/3-Multiple%20Linear%20Regression.pdf) |
-| 3 | September 29, 2023 | Polynomial regression | [View](Week%204%20-%20In-class%20Presentations/4-Polynomial%20Regression.pdf) |
-| 4 | October 06, 2023 | Logistic Regression | [View](Week%205%20-%20In-class%20Presentations/1-Logistic_Regression.pdf) |
-| 5 | October 06, 2023 | Decision Tree Regression | [View](Week%205%20-%20In-class%20Presentations/3-Decision_Tree_Regression.pdf) |
-| 6 | October 06, 2023 | Random forest regression | [View](Week%205%20-%20In-class%20Presentations/4-Random%20Forest%20Regression.pdf) |
-| 7 | October 20, 2023 | Naive Bayes Classifiers | [View](Week%207%20-%20In-class%20Presentations/2-Naive_Bayes_Classifiers.pptx) |
-| 8 | October 20, 2023 | Support Vector Machines | [View](Week%207%20-%20In-class%20Presentations/4-Support_Vector_Machines.pptx) |
-| 9 | October 20, 2023 | Ensemble, Voting and Bagging Classifiers | [View](Week%207%20-%20In-class%20Presentations/5-Ensemble,%20Voting%20and%20Bagging%20Classifiers.pptx) |
-| 10 | October 27, 2023 | Convolutional Neural Networks (CNNs) | [View](Week%208%20-%20In-class%20Presentations/2-Convolutional%20Neural%20Networks%20(CNNs).pptx) |
-| 11 | October 27, 2023 | Recurrent Neural Networks (RNNs) | [View](Week%208%20-%20In-class%20Presentations/4-Recurrent%20Neural%20Networks%20(RNNs).pptx) |
-| 12 | November 03, 2023 | Generative Adversarial Networks (GANs) | [View](Week%209%20-%20In-class%20Presentations/1-Generative%20Adversarial%20Networks.pptx) |
-| 13 | November 03, 2023 | K-mean clustering | [View](Week%209%20-%20In-class%20Presentations/2-K-mean_Clustering.pptx) |
-| 14 | November 03, 2023 | Expectation Maximization (EM) Algorithm | [View](Week%209%20-%20In-class%20Presentations/3-Expectation%20Maximization.pptx) |
-| 15 | November 03, 2023 | Mean-Shift Clustering | [View](Week%209%20-%20In-class%20Presentations/4-Mean-Shift%20Clustering.pptx) |
-| 16 | November 10, 2023 | Fuzzy Clustering | [View](Week%209%20-%20In-class%20Presentations/5-Fuzzy%20Clustering.pptx) |
-| 17 | November 10, 2023 | Spectral Clustering | [View](Week%2010%20-%20In-class%20Presentations/1-Spectral_Clustering.pptx) |
-| 18 | November 10, 2023 | Hierarchical Clustering | [View](Week%2010%20-%20In-class%20Presentations/2-Hierarchical_Clustering.pptx) |
-| 19 | November 10, 2023 | DBSCAN – Density Based Clustering | [View](Week%2010%20-%20In-class%20Presentations/3-DBSCAN.pptx) |
-| 20 | November 10, 2023 | Dimensionality reduction: Principle Component Analysis | [View](Week%2010%20-%20In-class%20Presentations/5-Dimensionality_Reduction_PCA.pptx) |
-| 21 | November 17, 2023 | Dimensionality reduction: Linear Discriminant Analysis | [View](Week%2011%20-%20In-class%20Presentations/1-Linear%20Discriminant%20Analysis.pptx) |
-| 22 | November 17, 2023 | Reinforcement Learning: Q-Learning | [View](Week%2011%20-%20In-class%20Presentations/3-Reinforcement%20Learning%20-%20Q-Learning.pptx) |
-| 23 | November 17, 2023 | Reinforcement Learning: Policy Gradient methods | [View](Week%2011%20-%20In-class%20Presentations/5-Reinforcement%20Learning%20Policy%20Gradient%20methods.pptx) |
+| 2 | September 29, 2023 | Multiple Linear Regression | [View](Week%204%20-%20In-class%20Presentations/2-Multiple%20Linear%20Regression.pdf) |
+| 3 | September 29, 2023 | Multiple Linear Regression | [View](Week%204%20-%20In-class%20Presentations/3-Multiple%20Linear%20Regression.pdf) |
+| 4 | September 29, 2023 | Polynomial regression | [View](Week%204%20-%20In-class%20Presentations/4-Polynomial%20Regression.pdf) |
+| 5 | October 06, 2023 | Logistic Regression | [View](Week%205%20-%20In-class%20Presentations/1-Logistic_Regression.pdf) |
+| 6 | October 06, 2023 | Decision Tree Regression | [View](Week%205%20-%20In-class%20Presentations/3-Decision_Tree_Regression.pdf) |
+| 7 | October 06, 2023 | Random forest regression | [View](Week%205%20-%20In-class%20Presentations/4-Random%20Forest%20Regression.pdf) |
+| 8 | October 20, 2023 | Naive Bayes Classifiers | [View](Week%207%20-%20In-class%20Presentations/2-Naive_Bayes_Classifiers.pptx) |
+| 9 | October 20, 2023 | Support Vector Machines | [View](Week%207%20-%20In-class%20Presentations/4-Support_Vector_Machines.pptx) |
+| 10 | October 20, 2023 | Ensemble, Voting and Bagging Classifiers | [View](Week%207%20-%20In-class%20Presentations/5-Ensemble,%20Voting%20and%20Bagging%20Classifiers.pptx) |
+| 11 | October 27, 2023 | Convolutional Neural Networks (CNNs) | [View](Week%208%20-%20In-class%20Presentations/2-Convolutional%20Neural%20Networks%20(CNNs).pptx) |
+| 12 | October 27, 2023 | Recurrent Neural Networks (RNNs) | [View](Week%208%20-%20In-class%20Presentations/4-Recurrent%20Neural%20Networks%20(RNNs).pptx) |
+| 13 | November 03, 2023 | Generative Adversarial Networks (GANs) | [View](Week%209%20-%20In-class%20Presentations/1-Generative%20Adversarial%20Networks.pptx) |
+| 14 | November 03, 2023 | K-mean clustering | [View](Week%209%20-%20In-class%20Presentations/2-K-mean_Clustering.pptx) |
+| 15 | November 03, 2023 | Expectation Maximization (EM) Algorithm | [View](Week%209%20-%20In-class%20Presentations/3-Expectation%20Maximization.pptx) |
+| 16 | November 03, 2023 | Mean-Shift Clustering | [View](Week%209%20-%20In-class%20Presentations/4-Mean-Shift%20Clustering.pptx) |
+| 17 | November 10, 2023 | Fuzzy Clustering | [View](Week%209%20-%20In-class%20Presentations/5-Fuzzy%20Clustering.pptx) |
+| 18 | November 10, 2023 | Spectral Clustering | [View](Week%2010%20-%20In-class%20Presentations/1-Spectral_Clustering.pptx) |
+| 19 | November 10, 2023 | Hierarchical Clustering | [View](Week%2010%20-%20In-class%20Presentations/2-Hierarchical_Clustering.pptx) |
+| 20 | November 10, 2023 | DBSCAN – Density Based Clustering | [View](Week%2010%20-%20In-class%20Presentations/3-DBSCAN.pptx) |
+| 21 | November 10, 2023 | Dimensionality reduction: Principle Component Analysis | [View](Week%2010%20-%20In-class%20Presentations/5-Dimensionality_Reduction_PCA.pptx) |
+| 22 | November 17, 2023 | Dimensionality reduction: Linear Discriminant Analysis | [View](Week%2011%20-%20In-class%20Presentations/1-Linear%20Discriminant%20Analysis.pptx) |
+| 23 | November 17, 2023 | Reinforcement Learning: Q-Learning | [View](Week%2011%20-%20In-class%20Presentations/3-Reinforcement%20Learning%20-%20Q-Learning.pptx) |
+| 24 | November 17, 2023 | Reinforcement Learning: Policy Gradient methods | [View](Week%2011%20-%20In-class%20Presentations/5-Reinforcement%20Learning%20Policy%20Gradient%20methods.pptx) |
 
 ---
 
