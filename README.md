@@ -163,16 +163,29 @@ Industry-recognized certifications in Machine Learning and Data Science:
      ========================================================================================= -->
 
 ## In-Class Presentation
-A detailed record of the technical presentation on regression analysis delivered during the semester.
 
 <div align="center">
 
-  [![Topic](https://img.shields.io/badge/Topic-Multiple%20Linear%20Regression-blue.svg)](In-Class%20Presentation)
-  [![Date](https://img.shields.io/badge/Date-September%2029%2C%202023-orange.svg)](In-Class%20Presentation)
-  [![Authors](https://img.shields.io/badge/Authors-Amey%2C%20Jithin%2C%20Ritika-orange.svg)](In-Class%20Presentation)
-  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](In-Class%20Presentation)
+### [📊 Multiple Linear Regression](In-Class%20Presentation)
+
+**A detailed record of the technical presentation on regression analysis delivered during the semester.**
+
+[![Topic](https://img.shields.io/badge/Topic-Multiple%20Linear%20Regression-blue.svg)](In-Class%20Presentation) [![Date](https://img.shields.io/badge/Date-September%2029%2C%202023-orange.svg)](In-Class%20Presentation) [![Authors](https://img.shields.io/badge/Authors-Amey%2C%20Jithin%2C%20Ritika-orange.svg)](In-Class%20Presentation) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](In-Class%20Presentation)
 
 </div>
+
+<div align="center">
+
+### Authors
+
+| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39)](https://orcid.org/0000-0001-5644-1575) |
+| :---: |
+
+</div>
+
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to **Jithin Gijo Varghese** and **Ritika Agarwal** for their meaningful contributions, guidance, and support that helped shape this work.*
 
 > [!TIP]
 > **Variable Isolation**: In high-dimensional research, identifying the true "drivers" of an outcome requires more than simple observation. Multiple Linear Regression serves as a technical filter, allowing researchers to mathematically isolate the weight of each individual predictor. This process ensures that our models capture the unique contribution of every input, providing a clear roadmap for navigating complex, multifaceted data systems.
