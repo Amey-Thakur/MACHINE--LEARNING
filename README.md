@@ -182,12 +182,12 @@ A detailed record of the technical presentation on regression analysis delivered
 
 | # | Resource | Category | Description |
 | :-: | :--- | :--- | :--- |
-| 1 | [**Technical Presentation (V1)**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pptx) | Presentation | Core research slides and theoretical framework |
-| 2 | [**Technical Report**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pdf) | Report | Detailed statistical analysis and mathematical findings |
-| 3 | [**Computational Notebook**](In-Class%20Presentation/Relationship%20between%20Hours%20Studied%20and%20Grades%20Received.ipynb) | Notebook | Python implementation of the regression analysis |
-| 4 | [**Recorded Visualization**](In-Class%20Presentation/Multiple%20regression.mp4) | Video | Recorded delivery of the technical presentation |
-| 5 | [**Technical Notes**](In-Class%20Presentation/PPT%20Notes.pdf) | Documentation | Supplemental technical notes for the research module |
-| 6 | [**Academic Template**](In-Class%20Presentation/Presentations_Template.pptx) | Template | Official scholarly presentation structure |
+| 1 | [**Presentation (Version 1)**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pdf) | Presentation | Original technical research slides (Initial Version) |
+| 2 | [**Presentation**](Week%204%20-%20In-class%20Presentations/2-Multiple%20Linear%20Regression.pdf) | Presentation | Final peer-reviewed research slides (Scholarly Record) |
+| 3 | [**Presentation Notes**](In-Class%20Presentation/PPT%20Notes.pdf) | Documentation | Supplemental technical discourse and pedagogical notes |
+| 4 | [**Jupyter Notebook**](In-Class%20Presentation/Relationship%20between%20Hours%20Studied%20and%20Grades%20Received.ipynb) | Notebook | Computational implementation of the regression model |
+| 5 | [**Visualization**](In-Class%20Presentation/Multiple%20regression.mp4) | Video | Recorded demonstration of the group presentation |
+| 6 | [**Academic Template**](In-Class%20Presentation/Presentations_Template.pptx) | Template | Standardized scholarly presentation framework |
 
 ---
 
