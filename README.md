@@ -187,16 +187,17 @@ Industry-recognized certifications in Machine Learning and Data Science:
 > ### 🤝🏻 Special Acknowledgement
 > *Special thanks to **Jithin Gijo Varghese** and **Ritika Agarwal** for their meaningful contributions, guidance, and support that helped shape this work.*
 
-> [!TIP]
-> **Variable Isolation**: In high-dimensional research, identifying the true "drivers" of an outcome requires more than simple observation. Multiple Linear Regression serves as a technical filter, allowing researchers to mathematically isolate the weight of each individual predictor. This process ensures that our models capture the unique contribution of every input, providing a clear roadmap for navigating complex, multifaceted data systems.
 
 ### Technical Synthesis: Quantifying Academic Success
 This module bridges the gap between theoretical probability and applied data science. By analyzing the **Hours Studied vs. Grades Received** dataset, we move beyond simple correlation to establish a statistically significant predictive framework. The research explores how computational models can "learn" from a limited set of observations to generate a high-fidelity line of best fit, demonstrating the transition from raw data collection to professional-grade statistical forecasting.
 
-> [!NOTE]
-> **Academic Structure**: This presentation and report explore the mathematical foundations and practical applications of Multiple Linear Regression, demonstrating the ability to analyze relationships between multiple independent variables and a dependent variable.
+> [!TIP]
+> **Variable Isolation**: In high-dimensional research, identifying the true "drivers" of an outcome requires more than simple observation. Multiple Linear Regression serves as a technical filter, allowing researchers to mathematically isolate the weight of each individual predictor. This process ensures that our models capture the unique contribution of every input, providing a clear roadmap for navigating complex, multifaceted data systems.
 
 ### Multiple Linear Regression (Group Presentation) &middot; *September 29, 2023*
+
+> [!NOTE]
+> **Academic Structure**: This presentation and report explore the mathematical foundations and practical applications of Multiple Linear Regression, demonstrating the ability to analyze relationships between multiple independent variables and a dependent variable.
 
 | # | Resource | Category | Description |
 | :-: | :--- | :--- | :--- |
