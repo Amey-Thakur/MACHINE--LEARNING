@@ -176,12 +176,12 @@ A detailed record of the technical presentation on regression analysis delivered
 </div>
 
 > [!TIP]
-> **Predictive Synergy**: Multiple Linear Regression (MLR) is like looking at a complex situation through multiple lenses simultaneously. For example, while intuitively we know that more study time usually leads to better grades, MLR allows us to prove that connection mathematically. It enables researchers to see exactly how much each "input" (like study hours) contributes to the final "result" (the grade received), even when other competing factors are at play.
+> **Variable Isolation**: In high-dimensional research, identifying the true "drivers" of an outcome requires more than simple observation. Multiple Linear Regression serves as a technical filter, allowing researchers to mathematically isolate the weight of each individual predictor. This process ensures that our models capture the unique contribution of every input, providing a clear roadmap for navigating complex, multifaceted data systems.
 
-### Applied Research: Evaluating Academic Performance
-This module applies core regression principles to a practical scenario: predicting student outcomes based on measurable efforts. By analyzing the **Hours Studied vs. Grades Received** dataset in the computational notebook below, the model "learns" the mathematical relationship between time investment and academic success. This provides a grounded baseline for understanding how machine learning algorithms isolate specific variables to deliver precise, data-driven predictions.
+### Technical Synthesis: Quantifying Academic Success
+This module bridges the gap between theoretical probability and applied data science. By analyzing the **Hours Studied vs. Grades Received** dataset, we move beyond simple correlation to establish a statistically significant predictive framework. The research explores how computational models can "learn" from a limited set of observations to generate a high-fidelity line of best fit, demonstrating the transition from raw data collection to professional-grade statistical forecasting.
 
-### Multiple Linear Regression (Group Presentation) &middot; *September.29.2023*
+### Multiple Linear Regression (Group Presentation) &middot; *September 29, 2023*
 
 | # | Resource | Category | Description |
 | :-: | :--- | :--- | :--- |
