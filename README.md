@@ -169,6 +169,7 @@ A detailed record of the technical presentation on regression analysis delivered
 <div align="center">
 
   [![Topic](https://img.shields.io/badge/Topic-Multiple%20Linear%20Regression-blue.svg)](In-Class%20Presentation)
+  [![Date](https://img.shields.io/badge/Date-September%2029%2C%202023-orange.svg)](In-Class%20Presentation)
   [![Authors](https://img.shields.io/badge/Authors-Amey%2C%20Jithin%2C%20Ritika-orange.svg)](In-Class%20Presentation)
   [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](In-Class%20Presentation)
 
@@ -179,18 +180,15 @@ A detailed record of the technical presentation on regression analysis delivered
 
 ### Program Details
 
-<details>
-<summary><b>Multiple Linear Regression (Group Presentation)</b></summary>
+**Multiple Linear Regression (Group Presentation)**
 
-| Resource | Category | Description | File |
-|:---|:---|:---|:---:|
-| <kbd>Multiple Linear Regression.pptx</kbd> | Presentation | Technical slide deck presenting core concepts and case studies | [View](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pptx) |
-| <kbd>Multiple Linear Regression.pdf</kbd> | Report | Detailed written report and statistical analysis | [View](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pdf) |
-| <kbd>Multiple regression.mp4</kbd> | Video | Recorded delivery of the group presentation | [View](In-Class%20Presentation/Multiple%20regression.mp4) |
-
-**Resources**: [PPT Notes](In-Class%20Presentation/PPT%20Notes.pdf) · [Presentation Template](In-Class%20Presentation/Presentations_Template.pptx)
-
-</details>
+| Resource | Category | Description |
+|:---|:---|:---|
+| [**Multiple Linear Regression.pptx**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pptx) | Presentation | Technical slide deck presenting core concepts and case studies |
+| [**Multiple Linear Regression.pdf**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pdf) | Report | Detailed written report and statistical analysis |
+| [**Multiple regression.mp4**](In-Class%20Presentation/Multiple%20regression.mp4) | Video | Recorded delivery of the group presentation |
+| [**PPT Notes**](In-Class%20Presentation/PPT%20Notes.pdf) | Documentation | Supplemental technical notes for the presentation |
+| [**Presentation Template**](In-Class%20Presentation/Presentations_Template.pptx) | Template | Official academic presentation structure |
 
 ---
 
