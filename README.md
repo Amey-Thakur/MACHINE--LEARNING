@@ -250,7 +250,7 @@ A comprehensive archival log documenting pedagogical discourse across weekly mod
 > [!TIP]
 > Machine Learning is not merely about algorithms; it is the **bridge between data and intelligent decision-making**. Every module below focuses on the critical translation from **Theoretical Models to Applied Systems**, enabling the design and verification of complex learning architectures.
 
-| # | Week | Date | Topic/Activity | Resources |
+| # | Week | Date | Topic/Activity | Lecture Slides |
 | :-: | :---: | :---: | :--- | :---: |
 | 1 | **Week 01** | September 08, 2023 | **Introduction to Machine Learning** | [View](Week%201%20-%20Introduction%20to%20Machine%20Learning) |
 | 2 | **Week 02** | September 15, 2023 | **Data and its processing in Machine Learning** | [View](Week%202%20-%20Data%20in%20Machine%20Learning) |
