@@ -206,7 +206,7 @@ A detailed record of the technical presentation on regression analysis delivered
 
 **Adapting Pre-trained Diffusion Models for Zero-Shot Text-to-Video Synthesis**
 
-[![Project](https://img.shields.io/badge/Project-Zero--Shot%20Video%20Generation-blue.svg)](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION) [![Stack](https://img.shields.io/badge/Stack-Generative%20AI%20%7C%20Python-orange.svg)](https://www.python.org/) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION)
+[![Project](https://img.shields.io/badge/Project-Zero--Shot%20Video%20Generation-blue.svg)](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION) [![Stack](https://img.shields.io/badge/Stack-Generative%20AI%20%7C%20Python-orange.svg)](https://www.python.org/) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION) [![YouTube](https://img.shields.io/badge/YouTube-Demonstration-red.svg?logo=youtube)](https://youtu.be/za9hId6UPoY?si=jRAU-sT2iFWbCtIH)
 
 </div>
 
