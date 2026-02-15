@@ -178,9 +178,7 @@ A detailed record of the technical presentation on regression analysis delivered
 > [!NOTE]
 > **Academic Structure**: This presentation and report explore the mathematical foundations and practical applications of Multiple Linear Regression, demonstrating the ability to analyze relationships between multiple independent variables and a dependent variable.
 
-### Program Details
-
-**Multiple Linear Regression (Group Presentation)**
+### Multiple Linear Regression (Group Presentation)
 
 | # | Resource | Category | Description |
 | :-: | :--- | :--- | :--- |
