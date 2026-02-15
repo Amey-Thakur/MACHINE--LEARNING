@@ -87,8 +87,9 @@ Academic roadmap and administrative records for the Fall 2023 session:
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Course Syllabus](View%20My%20Classes%20-%20Fall%202023.pdf) | Official course outcomes and assessment specifications |
-| 2 | [Announcements](Announcements.txt) | Archival log of course announcements and directives |
+| 1 | [Course Syllabus](Final_GENG8900-MachineLearning-CourseSyllabus-Fall-2023.pdf) | Official course outcomes and assessment specifications |
+| 2 | [MEng Class Schedule](View%20My%20Classes%20-%20Fall%202023.pdf) | Enrollment record and pedagogical timeline |
+| 3 | [Announcements](Announcements.txt) | Archival log of course announcements and directives |
 
 ---
 
