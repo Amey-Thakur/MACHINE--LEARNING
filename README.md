@@ -281,7 +281,7 @@ A granular record of peer-led technical research presentations and computational
 | # | Date | Topic | Presentation |
 | :-: | :---: | :--- | :---: |
 | 1 | September 29, 2023 | Gradient Descent algorithm and its variants | [View](Week%204%20-%20In-class%20Presentations/1-Gradient%20Descent%20Algorithm%20and%20Its%20Variants.pdf) |
-| 2 | September 29, 2023 | Multiple Linear Regression | [View](Week%204%20-%20In-class%20Presentations/2-Multiple%20Linear%20Regression.pdf) |
+| 2 | September 29, 2023 | Multiple Linear Regression | [View I](Week%204%20-%20In-class%20Presentations/2-Multiple%20Linear%20Regression.pdf) & [View II](Week%204%20-%20In-class%20Presentations/3-Multiple%20Linear%20Regression.pdf) |
 | 3 | September 29, 2023 | Polynomial regression | [View](Week%204%20-%20In-class%20Presentations/4-Polynomial%20Regression.pdf) |
 | 4 | October 06, 2023 | Logistic Regression | [View](Week%205%20-%20In-class%20Presentations/1-Logistic_Regression.pdf) |
 | 5 | October 06, 2023 | Decision Tree Regression | [View](Week%205%20-%20In-class%20Presentations/3-Decision_Tree_Regression.pdf) |
