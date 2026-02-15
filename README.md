@@ -230,7 +230,7 @@ This study investigates and implements the **Text2Video-Zero** approach, enablin
 | # | Milestone | Date |
 | :-: | :--- | :--- |
 | 1 | [**Project Proposal**](ML%20Project/Zero-Shot%20Video%20Generation%20-%20Project%20Proposal.pdf) | October 01, 2023 |
-| 2 | [**Project Presentation**](ML%20Project/Zero-Shot%20Video%20Generation.pdf) | November 24, 2023 |
+| 2 | [**Project Presentation**](ML%20Project/Zero-Shot%20Video%20Generation.pdf) | November 22, 2023 |
 | 3 | [**Final Project Report**](ML%20Project/Zero-Shot%20Video%20Generation%20Project%20Report.pdf) | November 19, 2023 |
 | 4 | [**Video Demonstration**](ML%20Project/Zero-Shot%20Video%20Generation.mp4) | November 19, 2023 |
 
@@ -259,7 +259,7 @@ A comprehensive archival log documenting pedagogical discourse across weekly mod
 | 9 | November 03, 2023 | **Unsupervised Learning**<br>GANs, K-means, EM Algorithm<br>*In-class Assignment Presentations* | [View](Week%209%20-%20In-class%20Presentations) |
 | 10 | November 10, 2023 | **K-Mean, EM Algorithm**<br>Fuzzy/Spectral/Hierarchical Clustering<br>*In-class Assignment Presentations* | [View](Week%2010%20-%20In-class%20Presentations) |
 | 11 | November 17, 2023 | **Dimensionality Reduction**<br>PCA, LDA, Reinforcement Learning<br>*In-class Assignment Presentations* | [View](Week%2011%20-%20In-class%20Presentations) |
-| 12 | November 24, 2023 | **Projects Presentations** | [View](ML%20Project) |
+| 12 | November 22, 2023 | **Projects Presentations** | [View](ML%20Project) |
 | 13 | December 01, 2023 | **Re-Enforcement Learning**<br>Course Wrap-Up | - |
 | 14-15 | December 09-20, 2023 | **Final Exam** | - |
 
