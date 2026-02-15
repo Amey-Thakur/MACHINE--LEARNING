@@ -93,13 +93,18 @@ Academic roadmap and administrative records for the Fall 2023 session:
 
 ---
 
-## Assignments
-Verified records of practical skill acquisition and academic assessments:
 
-| # | Item | Details |
-|:-:|:---|:---|
-| 1 | [DataCamp Certifications](Assignments) | Validated certificates for Python-based Machine Learning courses. |
-| 2 | [Linear Regression Assignment](Assignments/Questions%20-%20Multiple%20Linear%20Regression.pdf) | Analytical problem set for Multiple Linear Regression. |
+### Professional Certifications & Assignments
+A documented portfolio of technical assignments and industry-recognized certifications in Machine Learning and Data Science.
+
+| # | Resource | Description |
+| :-: | :--- | :--- |
+| 1 | [Multiple Linear Regression Assignment](Assignments/Questions%20-%20Multiple%20Linear%20Regression.pdf) | Application of multiple linear regression techniques for predictive modeling. |
+| 2 | [Supervised Learning with scikit-learn](datacamp/DataCamp%20-%20Supervised%20Learning%20with%20scikit-learn.pdf) | Foundational classification and regression algorithms using Python. |
+| 3 | [Unsupervised Learning in Python](datacamp/DataCamp%20-%20Unsupervised%20Learning%20in%20Python.pdf) | Implementation of clustering (K-Means) and dimensionality reduction (PCA). |
+| 4 | [Linear Classifiers in Python](datacamp/DataCamp%20-%20Linear%20Classifiers%20in%20Python.pdf) | Advanced classification techniques including Logistic Regression and SVMs. |
+| 5 | [Preprocessing for Machine Learning in Python](datacamp/DataCamp%20-%20Preprocessing%20for%20Machine%20Learning%20in%20Python.pdf) | Feature engineering, data scaling, and preparation pipelines. |
+| 6 | [Introduction to Deep Learning in Python](datacamp/DataCamp%20-%20Introduction%20to%20Deep%20Learning%20in%20Python.pdf) | Fundamentals of neural networks and deep learning architectures. |
 
 ---
 
