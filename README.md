@@ -1,28 +1,75 @@
-
+<!-- =========================================================================================
+                                     HEADER SECTION
+     ========================================================================================= -->
 <div align="center">
 
-# MACHINE LEARNING
-### ELEC-8900 Special Topics
+  <!-- Logo -->
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/main/university-of-windsor-logo.png" alt="University of Windsor" width="400"/>
 
-*Comprehensive archive of the Machine Learning course (ELEC-8900-57) conducted at the University of Windsor during the Fall 2023 session.*
+  <!-- Title -->
+  # Machine Learning
 
-[![My Profile](https://img.shields.io/badge/View-My_Profile-blue?style=for-the-badge&logo=github)](https://github.com/Amey-Thakur)
-[![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey?style=for-the-badge&logo=creative-commons)](LICENSE)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amey-thakur)
+  <!-- Subtitle -->
+  ### ELEC 8900 · Semester III · MEng Computer Engineering
+
+  <!-- Badges -->
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Windsor-005596.svg)](https://www.uwindsor.ca)
+  [![Program](https://img.shields.io/badge/Program-MEng%20Computer%20Engineering-FFCE00.svg)](https://www.uwindsor.ca/engineering/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+
+  <!-- Short Description -->
+  **A comprehensive academic archive for Machine Learning (ELEC 8900), documenting technical proficiency in supervised and unsupervised learning, neural networks, and reinforcement learning within the Master of Engineering program.**
+
+  ---
+
+  <!-- Navigation Links -->
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [In-Class Presentation](#in-class-presentation) &nbsp;·&nbsp; [Course Project](#course-project) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
 ---
 
-### Overview
-This repository serves as a centralized scholarly archive for **Special Topics: Machine Learning (ELEC-8900)**. It meticulously documents the academic journey through advanced machine learning concepts, including supervised and unsupervised learning, neural networks, and reinforcement learning. The repository contains curated lecture notes, rigorous practical assignments, comprehensive project reports, and verified certification records, reflecting a deep engagement with both theoretical foundations and applied engineering methodologies.
+<!-- =========================================================================================
+                                     OVERVIEW SECTION
+     ========================================================================================= -->
+
+## Overview
+Machine Learning (ELEC 8900) is a specialized graduate course in the Master of Engineering (MEng) program at the University of Windsor. This course introduces machine learning, covering fundamental concepts, techniques, and algorithms. It explores supervised learning methods including linear regression, logistic regression, multiclass classification, neural networks (CNN, RNN, FNN, deep learning), and decision trees (bias-variance decomposition). The unsupervised learning section covers probabilistic models, principle component analysis, K-Means, EM algorithm, and provides an overview of reinforcement learning.
+
+### Course Objectives
+The curriculum encompasses several key machine learning domains:
+- **Supervised Learning**: Mastering regression and classification techniques to predict continuous variables and categorize data.
+- **Neural Networks**: Designing and training deep learning models, including CNNs and RNNs, for complex pattern recognition.
+- **Unsupervised Learning**: Implementing clustering algorithms (K-Means, EM) and dimensionality reduction (PCA) for data analysis.
+- **Reinforcement Learning**: Understanding the foundations of agent-based learning, Markov decision processes, and exploration-exploitation trade-offs.
+- **Applied Engineering**: Applying theoretical concepts to real-world datasets through rigorous programming projects.
+
+### Repository Purpose
+This repository represents a curated collection of study materials, reference books, supplemental resources, and assignment reports. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
+
+As AI technologies evolve, the fundamental principles remain the bedrock of modern engineering. This repository serves as my intellectual reference point: a resource I can return to for reviewing algorithms, refreshing theoretical concepts, and strengthening technical understanding.
+
+**Why this repository exists:**
+
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental ML principles
+- **Academic Documentation**: To authentically document my learning journey through Machine Learning
+- **Community Contribution**: To share these resources with students and learners who may benefit from them
+
+> [!NOTE]
+> All materials were created, compiled, and organized by me during the Fall 2023 semester as part of my MEng degree requirements.
 
 ---
 
-### Repository Contents
+<!-- =========================================================================================
+                                     CONTENTS SECTION
+     ========================================================================================= -->
+
+## Repository Contents
 
 ### Reference Books
-A curated collection of authoritative textbooks and academic references cited in the course syllabus:
+This collection includes **comprehensive reference materials** and pedagogical guides:
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
@@ -33,17 +80,19 @@ A curated collection of authoritative textbooks and academic references cited in
 | 5 | [Information Theory, Inference, and Learning Algorithms - MacKay](Reference%20Books/Information%20Theory%20Inference%20and%20Learning%20Algorithms%20-%20David%20MacKay.pdf) | Deep dive into information theory and neural networks. |
 | 6 | [Bayesian Reasoning and Machine Learning - Barber](Reference%20Books/Bayesian%20Reasoning%20and%20Machine%20Learning%20-%20David%20Barber.pdf) | Graphical models and Bayesian methods for machine learning. |
 
+---
+
 ### Personal Preparation
-Administrative records and preparation materials for the Fall 2023 session:
+Academic roadmap and administrative records for the Fall 2023 session:
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Course Syllabus](View%20My%20Classes%20-%20Fall%202023.pdf) | Official course schedule and academic contract. |
-| 2 | [Announcements](Announcements.txt) | Archival log of course announcements and directives. |
+| 1 | [Course Syllabus](View%20My%20Classes%20-%20Fall%202023.pdf) | Official course outcomes and assessment specifications |
+| 2 | [Announcements](Announcements.txt) | Archival log of course announcements and directives |
 
 ---
 
-### Assignments & Certifications
+## Assignments
 Verified records of practical skill acquisition and academic assessments:
 
 | # | Item | Details |
@@ -51,44 +100,55 @@ Verified records of practical skill acquisition and academic assessments:
 | 1 | [DataCamp Certifications](Assignments) | Validated certificates for Python-based Machine Learning courses. |
 | 2 | [Linear Regression Assignment](Assignments/Questions%20-%20Multiple%20Linear%20Regression.pdf) | Analytical problem set for Multiple Linear Regression. |
 
-#### In-Class Presentation
-**Topic**: Multiple Linear Regression
-**Authors**: Amey Thakur, Jithin, Ritika
+---
 
-| Resource | Description |
-|:---|:---|
-| [Presentation Slides](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pptx) | Technical slide deck presenting the core concepts of Multiple Linear Regression. |
-| [Report PDF](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pdf) | Detailed written report and analysis. |
-| [Video Presentation](In-Class%20Presentation/Multiple%20regression.mp4) | Recorded delivery of the group presentation. |
+<!-- =========================================================================================
+                                     IN-CLASS PRESENTATION SECTION
+     ========================================================================================= -->
+
+## In-Class Presentation
+A detailed record of the technical presentation on regression analysis delivered during the semester.
+
+<div align="center">
+
+  [![Topic](https://img.shields.io/badge/Topic-Multiple%20Linear%20Regression-blue.svg)](In-Class%20Presentation)
+  [![Authors](https://img.shields.io/badge/Authors-Amey%2C%20Jithin%2C%20Ritika-orange.svg)](In-Class%20Presentation)
+  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](In-Class%20Presentation)
+
+</div>
+
+> [!NOTE]
+> **Academic Structure**: This presentation and report explore the mathematical foundations and practical applications of Multiple Linear Regression, demonstrating the ability to analyze relationships between multiple independent variables and a dependent variable.
+
+### Program Details
+
+<details>
+<summary><b>Multiple Linear Regression (Group Presentation)</b></summary>
+
+| Resource | Category | Description | File |
+|:---|:---|:---|:---:|
+| <kbd>Multiple Linear Regression.pptx</kbd> | Presentation | Technical slide deck presenting core concepts and case studies | [View](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pptx) |
+| <kbd>Multiple Linear Regression.pdf</kbd> | Report | Detailed written report and statistical analysis | [View](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pdf) |
+| <kbd>Multiple regression.mp4</kbd> | Video | Recorded delivery of the group presentation | [View](In-Class%20Presentation/Multiple%20regression.mp4) |
+
+**Resources**: [PPT Notes](In-Class%20Presentation/PPT%20Notes.pdf) · [Presentation Template](In-Class%20Presentation/Presentations_Template.pptx)
+
+</details>
 
 ---
 
-### Lecture Notes
-Structured weekly modules covering the course curriculum:
+<!-- =========================================================================================
+                                     COURSE PROJECT SECTION
+     ========================================================================================= -->
 
-| Week | Lecture Date | Subject / Activity | Resources |
-|:-:|:---|:---|:---|
-| 1 | Sept. 8 | Introduction to Machine Learning | [Week 1 - Intro](Week%201%20-%20Introduction%20to%20Machine%20Learning) |
-| 2 | Sept. 15 | Data and its processing in Machine Learning | [Week 2 - Data Processing](Week%202%20-%20Data%20in%20Machine%20Learning) |
-| 3 | Sept. 22 | Supervised Learning | [Week 3 - Supervised Learning](Week%203%20-%20Python%20and%20Supervised%20Learning) |
-| 4 | Sept. 29 | Linear Methods for Regression, Logistic Regression...<br>*In-class Assignment Presentations* | [Week 4 - Presentations](Week%204%20-%20In-class%20Presentations) |
-| 5 | Oct. 6 | Decision Trees, Random Forest...<br>*In-class Assignment Presentations* | [Week 5 - Presentations](Week%205%20-%20In-class%20Presentations) |
-| 6 | Oct. 13 | **No Classes – Reading Week** | [Reading Week](Week%206%20-%20Reading%20Week%20-%20No%20Class) |
-| 7 | Oct. 20 | Neural Networks...<br>*In-class Assignment Presentations* | [Week 7 - Presentations](Week%207%20-%20In-class%20Presentations) |
-| 8 | Oct. 27 | Neural Networks (CNNs, RNNs)...<br>*In-class Assignment Presentations* | [Week 8 - Presentations](Week%208%20-%20In-class%20Presentations) |
-| 9 | Nov. 3 | Unsupervised Learning (GANs, K-means)...<br>*In-class Assignment Presentations* | [Week 9 - Presentations](Week%209%20-%20In-class%20Presentations) |
-| 10 | Nov. 10 | K-Mean, EM Algorithm...<br>*In-class Assignment Presentations* | [Week 10 - Presentations](Week%2010%20-%20In-class%20Presentations) |
-| 11 | Nov. 17 | Dimensionality Reduction (PCA, LDA)...<br>*In-class Assignment Presentations* | [Week 11 - Presentations](Week%2011%20-%20In-class%20Presentations) |
-| 12 | Nov. 24 | **Projects Presentations** | [Week 12 - Projects](ML%20Project) |
-| 13 | Dec. 1 | Re-Enforcement Learning, Course Wrap-Up | - |
-| 14-15 | Dec. 9-20 | **Final Exam** | - |
-
----
-
-### Course Project
+## Course Project
 
 ### [🚀 Zero-Shot Video Generation](ML%20Project)
 **Design and implementation of a Zero-Shot Video Generation system.**
+
+[![Project](https://img.shields.io/badge/Project-Zero--Shot%20Video%20Generation-blue.svg)](ML%20Project) [![Stack](https://img.shields.io/badge/Stack-Generative%20AI%20%7C%20Python-orange.svg)](ML%20Project) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](ML%20Project)
+
+</div>
 
 <div align="center">
 
@@ -98,24 +158,65 @@ Structured weekly modules covering the course curriculum:
 
 </div>
 
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to my teammates for their collaborative excellence and shared commitment that helped shape this work.*
+
 ### Project Overview
 This project explores the frontier of Generative AI, focusing on Zero-Shot Video Generation. It involves extensive research, proposal development, and the creation of a comprehensive report and video demonstration, showcasing the capability to generate video content without task-specific training data.
 
+> [!NOTE]
+> The project accounts for **30%** of the final course grade and demonstrates advanced proficiency in applying state-of-the-art machine learning models.
+
 ### Resources
 | # | Milestone | Deliverables |
-|:-:|:---|:---|
+| :-: | :--- | :--- |
 | 1 | **Proposal** | [Project Proposal](ML%20Project/Zero-Shot%20Video%20Generation%20-%20Project%20Proposal.pdf) |
 | 2 | **Presentation** | [Project Presentation](ML%20Project/Zero-Shot%20Video%20Generation.pptx) |
 | 3 | **Final Report** | [Final Project Report](ML%20Project/Zero-Shot%20Video%20Generation%20Project%20Report.pdf) |
 | 4 | **Video Demo** | [Video Demonstration](ML%20Project/Zero-Shot%20Video%20Generation.mp4) |
 
-> [!NOTE]
-> The project accounts for **30%** of the final course grade.
+---
+
+<!-- =========================================================================================
+                                     LECTURE NOTES SECTION
+     ========================================================================================= -->
+
+## Lecture Notes
+A comprehensive archival log documenting pedagogical discourse across weekly modules, including slides and technical archives for the Fall 2023 session.
+
+> [!TIP]
+> Machine Learning is not merely about algorithms; it is the **bridge between data and intelligent decision-making**. Every module below focuses on the critical translation from **Theoretical Models to Applied Systems**, enabling the design and verification of complex learning architectures.
+
+| Week | Lecture Date | Subject / Activity | Resources |
+| :-: | :---: | :--- | :---: |
+| 1 | Sept. 8 | **Introduction to Machine Learning** | [View](Week%201%20-%20Introduction%20to%20Machine%20Learning) |
+| 2 | Sept. 15 | **Data and its processing in Machine Learning** | [View](Week%202%20-%20Data%20in%20Machine%20Learning) |
+| 3 | Sept. 22 | **Supervised Learning** | [View](Week%203%20-%20Python%20and%20Supervised%20Learning) |
+| 4 | Sept. 29 | **Linear Methods for Regression**<br>Logistic Regression, Multiclass Classification<br>*In-class Assignment Presentations* | [View](Week%204%20-%20In-class%20Presentations) |
+| 5 | Oct. 6 | **Decision Trees, Random Forest**<br>*In-class Assignment Presentations* | [View](Week%205%20-%20In-class%20Presentations) |
+| 6 | Oct. 13 | **No Classes – Reading Week** | [View](Week%206%20-%20Reading%20Week%20-%20No%20Class) |
+| 7 | Oct. 20 | **Neural Networks**<br>*In-class Assignment Presentations* | [View](Week%207%20-%20In-class%20Presentations) |
+| 8 | Oct. 27 | **Neural Networks (CNN, RNN)**<br>*In-class Assignment Presentations* | [View](Week%208%20-%20In-class%20Presentations) |
+| 9 | Nov. 3 | **Unsupervised Learning**<br>GANs, K-means, EM Algorithm<br>*In-class Assignment Presentations* | [View](Week%209%20-%20In-class%20Presentations) |
+| 10 | Nov. 10 | **K-Mean, EM Algorithm**<br>Fuzzy/Spectral/Hierarchical Clustering<br>*In-class Assignment Presentations* | [View](Week%2010%20-%20In-class%20Presentations) |
+| 11 | Nov. 17 | **Dimensionality Reduction**<br>PCA, LDA, Reinforcement Learning<br>*In-class Assignment Presentations* | [View](Week%2011%20-%20In-class%20Presentations) |
+| 12 | Nov. 24 | **Projects Presentations** | [View](ML%20Project) |
+| 13 | Dec. 1 | **Re-Enforcement Learning**<br>Course Wrap-Up | - |
+| 14-15 | Dec. 9-20 | **Final Exam** | - |
 
 ---
 
-### Evaluation Methods
-The course grade is evaluated as follows:
+<!-- =========================================================================================
+                                     SYLLABUS SECTION
+     ========================================================================================= -->
+
+## Syllabus
+> **[Official ELEC 8900 Syllabus](View%20My%20Classes%20-%20Fall%202023.pdf)**
+> Complete graduate-level syllabus document for the **Fall 2023** session, including detailed course outcomes, assessment criteria, and module specifications for Machine Learning.
+
+> [!IMPORTANT]
+> The course grade is evaluated as follows:
 
 | Method of Evaluation | % of Final Grade |
 |:---|:-:|
@@ -126,21 +227,77 @@ The course grade is evaluated as follows:
 
 ---
 
-### Usage Guidelines
-This repository is openly shared for **academic and educational purposes**. It serves as a reference for students, researchers, and engineers interested in Machine Learning. Please respect the intellectual property rights and citation requirements when utilizing these materials.
+<!-- =========================================================================================
+                                     USAGE GUIDELINES
+     ========================================================================================= -->
 
-### License
-This repository is licensed under the **Creative Commons Attribution 4.0 International License**. See [LICENSE](LICENSE) for details.
+## Usage Guidelines
+This repository is openly shared to support learning and knowledge exchange across the academic community.
 
-### About This Repository
-| | |
-|:---|:---|
-| **Author** | **Amey Thakur** |
-| **Institution** | University of Windsor |
-| **Program** | Master of Engineering (M.Eng) - Computer Engineering |
-| **Email** | [thakur23@uwindsor.ca](mailto:thakur23@uwindsor.ca) |
-| **LinkedIn** | [Amey Thakur](https://www.linkedin.com/in/amey-thakur) |
+**For Students**
+Use these resources as templates for project proposals, reference materials for learning theory, and examples of scholarly documentation. All content is organized for self-paced learning.
 
-<div align="right">
-<a href="#machine-learning">↑ Back to Top</a>
+**For Educators**
+These materials may serve as curriculum references, sample project benchmarks, or supplementary instructional content in machine learning. Attribution is appreciated when utilizing content.
+
+**For Researchers**
+The project reports and architectural documentation may provide insights into scholarly machine learning patterns and professional engineering documentation structuring.
+
+---
+
+<!-- =========================================================================================
+                                     LICENSE SECTION
+     ========================================================================================= -->
+
+## License
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+
+---
+
+<!-- =========================================================================================
+                                     ABOUT SECTION
+     ========================================================================================= -->
+
+## About This Repository
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)
+**Academic Journey**: Master of Engineering in Computer Engineering (2023-2024)
+**Institution**: [University of Windsor](https://www.uwindsor.ca), Windsor, Ontario
+**Faculty**: [Faculty of Engineering](https://www.uwindsor.ca/engineering/)
+
+This repository represents a comprehensive collection of study materials, reference books, supplemental resources, weekly lecture archives, and project reports curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Machine Learning.
+
+**Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
+
+### Acknowledgments
+Grateful acknowledgment to **Dr. Yasser M. Alginahi** for his exceptional instruction in Machine Learning, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his thorough explanation of complex algorithms and neural networks, made the subject both accessible and engaging. His dedication to academic excellence in the field of artificial intelligence is gratefully acknowledged.
+
+Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+
+---
+
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
+<div align="center">
+
+  <!-- Footer Navigation -->
+  [↑ Back to Top](#machine-learning)
+
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [In-Class Presentation](#in-class-presentation) &nbsp;·&nbsp; [Course Project](#course-project) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🎓 [MEng Computer Engineering Repository](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
+
+  **Computer Engineering (M.Eng) - University of Windsor**
+
+  *An archival record of **graduate-level research** and **advanced engineering coursework**.*
+
 </div>
