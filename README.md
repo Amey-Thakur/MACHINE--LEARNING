@@ -233,6 +233,7 @@ This study investigates and implements the **Text2Video-Zero** approach, enablin
 | 2 | [**Project Presentation**](ML%20Project/Zero-Shot%20Video%20Generation.pdf) | November 22, 2023 |
 | 3 | [**Final Project Report**](ML%20Project/Zero-Shot%20Video%20Generation%20Project%20Report.pdf) | November 19, 2023 |
 | 4 | [**Video Demonstration**](ML%20Project/Zero-Shot%20Video%20Generation.mp4) | November 19, 2023 |
+| 5 | [**YouTube Demonstration**](https://youtu.be/za9hId6UPoY?si=jRAU-sT2iFWbCtIH) | November 19, 2023 |
 
 ---
 
