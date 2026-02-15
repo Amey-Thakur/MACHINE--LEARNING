@@ -107,55 +107,44 @@ Verified records of practical skill acquisition and academic assessments:
 ### Professional Certifications
 Industry-recognized certifications in Machine Learning and Data Science:
 
-<div align="center">
-
-<h3>Supervised Learning with scikit-learn</h3>
-<i>Classification and regression algorithms using Python.</i>
-<br><br>
-<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Supervised%20Learning%20with%20scikit-learn.png" width="90%" alt="Supervised Learning with scikit-learn">
-
-</div>
-<br>
-
-<div align="center">
-
-<h3>Unsupervised Learning in Python</h3>
-<i>Clustering (K-Means) and dimensionality reduction (PCA).</i>
-<br><br>
-<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Unsupervised%20Learning%20in%20Python.png" width="90%" alt="Unsupervised Learning in Python">
-
-</div>
-<br>
-
-<div align="center">
-
-<h3>Linear Classifiers in Python</h3>
-<i>Logistic Regression and Support Vector Machines (SVMs).</i>
-<br><br>
-<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Linear%20Classifiers%20in%20Python.png" width="90%" alt="Linear Classifiers in Python">
-
-</div>
-<br>
-
-<div align="center">
-
-<h3>Preprocessing for Machine Learning in Python</h3>
-<i>Feature engineering, scaling, and data preparation pipelines.</i>
-<br><br>
-<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Preprocessing%20for%20Machine%20Learning%20in%20Python.png" width="90%" alt="Preprocessing for Machine Learning in Python">
-
-</div>
-<br>
-
-<div align="center">
-
-<h3>Introduction to Deep Learning in Python</h3>
-<i>Neural networks and deep learning architecture fundamentals.</i>
-<br><br>
-<img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Introduction%20to%20Deep%20Learning%20in%20Python.png" width="90%" alt="Introduction to Deep Learning in Python">
-
-</div>
-<br>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>Supervised Learning with scikit-learn</h3>
+      <i>Classification and regression algorithms using Python.</i>
+      <br><br>
+      <img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Supervised%20Learning%20with%20scikit-learn.png" width="96%" alt="Supervised Learning with scikit-learn">
+    </td>
+    <td align="center" width="50%">
+      <h3>Unsupervised Learning in Python</h3>
+      <i>Clustering (K-Means) and dimensionality reduction (PCA).</i>
+      <br><br>
+      <img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Unsupervised%20Learning%20in%20Python.png" width="96%" alt="Unsupervised Learning in Python">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Linear Classifiers in Python</h3>
+      <i>Logistic Regression and Support Vector Machines (SVMs).</i>
+      <br><br>
+      <img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Linear%20Classifiers%20in%20Python.png" width="96%" alt="Linear Classifiers in Python">
+    </td>
+    <td align="center" width="50%">
+      <h3>Preprocessing for Machine Learning in Python</h3>
+      <i>Feature engineering, scaling, and data preparation pipelines.</i>
+      <br><br>
+      <img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Preprocessing%20for%20Machine%20Learning%20in%20Python.png" width="96%" alt="Preprocessing for Machine Learning in Python">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>Introduction to Deep Learning in Python</h3>
+      <i>Neural networks and deep learning architecture fundamentals.</i>
+      <br><br>
+      <img src="Assignments/Amey%20Thakur%20-%20DataCamp%20Introduction%20to%20Deep%20Learning%20in%20Python.png" width="96%" alt="Introduction to Deep Learning in Python">
+    </td>
+  </tr>
+</table>
 
 ---
 
