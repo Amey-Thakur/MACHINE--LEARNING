@@ -181,8 +181,7 @@ A detailed record of the technical presentation on regression analysis delivered
 ### Applied Research: Evaluating Academic Performance
 This module applies core regression principles to a practical scenario: predicting student outcomes based on measurable efforts. By analyzing the **Hours Studied vs. Grades Received** dataset in the computational notebook below, the model "learns" the mathematical relationship between time investment and academic success. This provides a grounded baseline for understanding how machine learning algorithms isolate specific variables to deliver precise, data-driven predictions.
 
-### Multiple Linear Regression (Group Presentation)
-*September.29.2023*
+### Multiple Linear Regression (Group Presentation) &middot; *September.29.2023*
 
 | # | Resource | Category | Description |
 | :-: | :--- | :--- | :--- |
