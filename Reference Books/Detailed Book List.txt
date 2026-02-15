@@ -1,0 +1,6 @@
+[1] Learning from Data, Yaser S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin, ISBN: 9781600490064.
+[2] Bishop, C. M. "Pattern Recognition and Machine Learning", Springer, (2004). https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/
+[3] Hastie, T., Tibshirani, R. and Friedman, J., "The elements of statistical learning." Springer (2009). https://hastie.su.domains/Papers/ESLII.pdf
+[4] Richard S. Sutton, and Andrew G. Barto, "Reinforcement Learning: An Introduction", Second Edition, MIT Press, Cambridge, MA, (2018). http://incompleteideas.net/book/RLbook2020.pdf
+[5] David J.C. MacKay, "Information Theory, Inference, and Learning Algorithms", Cambridge University Press, (2003). http://www.inference.org.uk/itprnn/book.pdf
+[6] David Barber, Bayesian Reasoning and Machine Learning, http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
