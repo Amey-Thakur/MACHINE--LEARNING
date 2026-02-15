@@ -182,11 +182,12 @@ A detailed record of the technical presentation on regression analysis delivered
 
 | # | Resource | Category | Description |
 | :-: | :--- | :--- | :--- |
-| 1 | [**Multiple Linear Regression**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pptx) | Presentation | Technical slide deck presenting core concepts and case studies |
-| 2 | [**Multiple Linear Regression**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pdf) | Report | Detailed written report and statistical analysis |
-| 3 | [**Multiple regression**](In-Class%20Presentation/Multiple%20regression.mp4) | Video | Recorded delivery of the group presentation |
-| 4 | [**PPT Notes**](In-Class%20Presentation/PPT%20Notes.pdf) | Documentation | Supplemental technical notes for the presentation |
-| 5 | [**Presentation Template**](In-Class%20Presentation/Presentations_Template.pptx) | Template | Official academic presentation structure |
+| 1 | [**Technical Presentation (V1)**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pptx) | Presentation | Core research slides and theoretical framework |
+| 2 | [**Technical Report**](In-Class%20Presentation/Multiple%20Linear%20Regression%20%5BAmey,%20Jithin,%20Ritika%5D.pdf) | Report | Detailed statistical analysis and mathematical findings |
+| 3 | [**Computational Notebook**](In-Class%20Presentation/Relationship%20between%20Hours%20Studied%20and%20Grades%20Received.ipynb) | Notebook | Python implementation of the regression analysis |
+| 4 | [**Recorded Visualization**](In-Class%20Presentation/Multiple%20regression.mp4) | Video | Recorded delivery of the technical presentation |
+| 5 | [**Technical Notes**](In-Class%20Presentation/PPT%20Notes.pdf) | Documentation | Supplemental technical notes for the research module |
+| 6 | [**Academic Template**](In-Class%20Presentation/Presentations_Template.pptx) | Template | Official scholarly presentation structure |
 
 ---
 
