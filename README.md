@@ -175,20 +175,6 @@ A detailed record of the technical presentation on regression analysis delivered
 
 </div>
 
-<div align="center">
-
-### Authors
-
-| <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39)](https://orcid.org/0000-0001-5644-1575) |
-| :---: |
-
-</div>
-
-> [!IMPORTANT]
-> ### 🤝🏻 Special Acknowledgement
-> *Special thanks to **Jithin Gijo Varghese** and **Ritika Agarwal** for their meaningful contributions, guidance, and support that helped shape this work.*
-
-
 > [!TIP]
 > **Variable Isolation**: In high-dimensional research, identifying the true "drivers" of an outcome requires more than simple observation. Multiple Linear Regression serves as a technical filter, allowing researchers to mathematically isolate the weight of each individual predictor. This process ensures that our models capture the unique contribution of every input, providing a clear roadmap for navigating complex, multifaceted data systems.
 
