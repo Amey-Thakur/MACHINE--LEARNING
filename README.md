@@ -202,7 +202,7 @@ A detailed record of the technical presentation on regression analysis delivered
 
 <div align="center">
 
-### [🚀 Zero-Shot Video Generation](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION)
+### [🎬 Zero-Shot Video Generation](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION)
 
 **Adapting Pre-trained Diffusion Models for Zero-Shot Text-to-Video Synthesis**
 
