@@ -296,13 +296,13 @@ A comprehensive archival log documenting pedagogical discourse across fourteen m
 ## Usage Guidelines
 This repository is openly shared to support learning and knowledge exchange across the academic community.
 
-**For Students**
+**For Students**  
 Use these resources as templates for project proposals, reference materials for learning theory, and examples of scholarly documentation. All content is organized for self-paced learning.
 
-**For Educators**
+**For Educators**  
 These materials may serve as curriculum references, sample project benchmarks, or supplementary instructional content in machine learning. Attribution is appreciated when utilizing content.
 
-**For Researchers**
+**For Researchers**  
 The project reports and architectural documentation may provide insights into scholarly machine learning patterns and professional engineering documentation structuring.
 
 ---
