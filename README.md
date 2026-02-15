@@ -221,7 +221,7 @@ A detailed record of the technical presentation on regression analysis delivered
 
 > [!IMPORTANT]
 > ### 🤝🏻 Special Acknowledgement
-> *Special thanks to **Jithin Gijo Varghese** and **Ritika Agarwal** for their collaborative excellence and technical proficiency. We worked closely to implement and validate complex machine learning architectures, and their contributions were essential in transforming theoretical concepts into robust engineering solutions.*
+> *Special thanks to **Jithin Gijo Varghese** and **Ritika Agarwal** for their meaningful contributions, guidance, and support that helped shape this work.*
 
 ### Project Overview
 This study investigates and implements the **Text2Video-Zero** approach, enabling the generation of temporally coherent videos from text prompts *without* the need for large-scale video model training. The implementation focuses on modifying specific **Self-Attention** mechanisms within pre-trained diffusion models to preserve identity and background consistency across frames. The final system delivers a complete end-to-end pipeline—from **Tokenization** and **Embedding** to **Video Generation**—deployed via a reactive web interface.
