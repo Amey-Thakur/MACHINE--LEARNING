@@ -97,9 +97,9 @@ Academic roadmap and administrative records for the Fall 2023 session:
 ### Assignments
 Verified records of practical skill acquisition and academic assessments:
 
-| # | Resource | Description |
+| # | Assignment | Description |
 | :-: | :--- | :--- |
-| 1 | [Multiple Linear Regression Assignment](Assignments/Questions%20-%20Multiple%20Linear%20Regression.pdf) | Application of multiple linear regression techniques for predictive modeling. |
+| 1 | [Multiple Linear Regression](Assignments/Questions%20-%20Multiple%20Linear%20Regression.pdf) | Application of multiple linear regression techniques for predictive modeling. |
 | 2 | [DataCamp Certifications (Combined)](datacamp/DataCamp%20Certificates%20-%20Amey%20%5B110107589%5D.pdf) | Comprehensive portfolio of all 5 completed DataCamp course certificates. |
 
 ---
