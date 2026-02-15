@@ -227,12 +227,12 @@ A detailed record of the technical presentation on regression analysis delivered
 This study investigates and implements the **Text2Video-Zero** approach, enabling the generation of temporally coherent videos from text prompts *without* the need for large-scale video model training. The implementation focuses on modifying specific **Self-Attention** mechanisms within pre-trained diffusion models to preserve identity and background consistency across frames. The final system delivers a complete end-to-end pipeline, ranging from **Tokenization** and **Embedding** to **Video Generation**, deployed via a reactive web interface.
 
 ### Resources
-| # | Milestone | Date | Deliverables |
-| :-: | :--- | :--- | :--- |
-| 1 | **Proposal** | October 01, 2023 | [Project Proposal](ML%20Project/Zero-Shot%20Video%20Generation%20-%20Project%20Proposal.pdf) |
-| 2 | **Presentation** | November 24, 2023 | [Project Presentation](ML%20Project/Zero-Shot%20Video%20Generation.pptx) |
-| 3 | **Final Report** | November 19, 2023 | [Final Project Report](ML%20Project/Zero-Shot%20Video%20Generation%20Project%20Report.pdf) |
-| 4 | **Video Demo** | November 19, 2023 | [Video Demonstration](ML%20Project/Zero-Shot%20Video%20Generation.mp4) |
+| # | Milestone | Date |
+| :-: | :--- | :--- |
+| 1 | [**Project Proposal**](ML%20Project/Zero-Shot%20Video%20Generation%20-%20Project%20Proposal.pdf) | October 01, 2023 |
+| 2 | [**Project Presentation**](ML%20Project/Zero-Shot%20Video%20Generation.pptx) | November 24, 2023 |
+| 3 | [**Final Project Report**](ML%20Project/Zero-Shot%20Video%20Generation%20Project%20Report.pdf) | November 19, 2023 |
+| 4 | [**Video Demonstration**](ML%20Project/Zero-Shot%20Video%20Generation.mp4) | November 19, 2023 |
 
 ---
 
