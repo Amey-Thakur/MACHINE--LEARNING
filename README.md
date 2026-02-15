@@ -324,9 +324,9 @@ This repository and all linked academic content are made available under the **C
      ========================================================================================= -->
 
 ## About This Repository
-**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)
-**Academic Journey**: Master of Engineering in Computer Engineering (2023-2024)
-**Institution**: [University of Windsor](https://www.uwindsor.ca), Windsor, Ontario
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Academic Journey**: Master of Engineering in Computer Engineering (2023-2024)  
+**Institution**: [University of Windsor](https://www.uwindsor.ca), Windsor, Ontario  
 **Faculty**: [Faculty of Engineering](https://www.uwindsor.ca/engineering/)
 
 This repository represents a comprehensive collection of study materials, reference books, supplemental resources, weekly lecture archives, and project reports curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Machine Learning.
