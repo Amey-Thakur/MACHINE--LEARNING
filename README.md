@@ -94,17 +94,26 @@ Academic roadmap and administrative records for the Fall 2023 session:
 ---
 
 
-### Professional Certifications & Assignments
-A documented portfolio of technical assignments and industry-recognized certifications in Machine Learning and Data Science.
+### Assignments
+Verified records of practical skill acquisition and academic assessments:
 
 | # | Resource | Description |
 | :-: | :--- | :--- |
 | 1 | [Multiple Linear Regression Assignment](Assignments/Questions%20-%20Multiple%20Linear%20Regression.pdf) | Application of multiple linear regression techniques for predictive modeling. |
-| 2 | [Supervised Learning with scikit-learn](datacamp/DataCamp%20-%20Supervised%20Learning%20with%20scikit-learn.pdf) | Foundational classification and regression algorithms using Python. |
-| 3 | [Unsupervised Learning in Python](datacamp/DataCamp%20-%20Unsupervised%20Learning%20in%20Python.pdf) | Implementation of clustering (K-Means) and dimensionality reduction (PCA). |
-| 4 | [Linear Classifiers in Python](datacamp/DataCamp%20-%20Linear%20Classifiers%20in%20Python.pdf) | Advanced classification techniques including Logistic Regression and SVMs. |
-| 5 | [Preprocessing for Machine Learning in Python](datacamp/DataCamp%20-%20Preprocessing%20for%20Machine%20Learning%20in%20Python.pdf) | Feature engineering, data scaling, and preparation pipelines. |
-| 6 | [Introduction to Deep Learning in Python](datacamp/DataCamp%20-%20Introduction%20to%20Deep%20Learning%20in%20Python.pdf) | Fundamentals of neural networks and deep learning architectures. |
+| 2 | [DataCamp Certifications (Combined)](datacamp/DataCamp%20Certificates%20-%20Amey%20%5B110107589%5D.pdf) | Comprehensive portfolio of all 5 completed DataCamp course certificates. |
+
+---
+
+### Professional Certifications
+Industry-recognized certifications in Machine Learning and Data Science:
+
+| # | Certification | Focus Area |
+| :-: | :--- | :--- |
+| 1 | [Supervised Learning with scikit-learn](datacamp/DataCamp%20-%20Supervised%20Learning%20with%20scikit-learn.pdf) | Classification and regression algorithms using Python. |
+| 2 | [Unsupervised Learning in Python](datacamp/DataCamp%20-%20Unsupervised%20Learning%20in%20Python.pdf) | Clustering (K-Means) and dimensionality reduction (PCA). |
+| 3 | [Linear Classifiers in Python](datacamp/DataCamp%20-%20Linear%20Classifiers%20in%20Python.pdf) | Logistic Regression and Support Vector Machines (SVMs). |
+| 4 | [Preprocessing for Machine Learning in Python](datacamp/DataCamp%20-%20Preprocessing%20for%20Machine%20Learning%20in%20Python.pdf) | Feature engineering, scaling, and data preparation pipelines. |
+| 5 | [Introduction to Deep Learning in Python](datacamp/DataCamp%20-%20Introduction%20to%20Deep%20Learning%20in%20Python.pdf) | Neural networks and deep learning architecture fundamentals. |
 
 ---
 
