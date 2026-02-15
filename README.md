@@ -69,7 +69,7 @@ As the field of Artificial Intelligence evolves, the fundamental principles rema
 ## Repository Contents
 
 ### Reference Books
-This collection includes **comprehensive reference materials** and pedagogical guides:
+This collection includes **comprehensive reference materials** covering all major topics:
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
