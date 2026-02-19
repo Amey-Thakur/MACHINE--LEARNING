@@ -58,7 +58,7 @@ As the field of Artificial Intelligence evolves, the fundamental principles rema
 - **Community Contribution**: To share these resources with students and learners who may benefit from them
 
 > [!NOTE]
-> All materials were created, compiled, and organized by me during the Fall 2023 semester as part of my MEng degree requirements.
+> All materials were created, compiled, and organized by me during the **Fall 2023** semester as part of my MEng degree requirements.
 
 ---
 
@@ -83,7 +83,7 @@ This collection includes **comprehensive reference materials** covering all majo
 ---
 
 ### Personal Preparation
-Academic roadmap and administrative records for the Fall 2023 session:
+Academic roadmap and administrative records for the **Fall 2023** session:
 
 | # | Resource | Description |
 |:-:|:---|:---|
@@ -271,7 +271,7 @@ This study investigates and implements the **Text2Video-Zero** approach, enablin
 
 ## Lecture Notes
 
-A comprehensive archival log documenting pedagogical discourse across fourteen weeks, including weekly slides, applied research presentations, and technical resources for the Fall 2023 session.
+A comprehensive archival log documenting pedagogical discourse across fourteen weeks, including weekly slides, applied research presentations, and technical resources for the **Fall 2023** session.
 
 > [!TIP]
 > Machine Learning is not merely about algorithms; it is the **bridge between data and intelligent decision-making**. Every module below focuses on the critical translation from **Theoretical Models to Applied Systems**, enabling the design and verification of complex learning architectures.
@@ -298,7 +298,7 @@ A comprehensive archival log documenting pedagogical discourse across fourteen w
 
 ### In-Class Assignment Presentations
 
-A granular record of peer-led technical research presentations and computational case studies conducted during the Fall 2023 session.
+A granular record of peer-led technical research presentations and computational case studies conducted during the **Fall 2023** session.
 
 > [!NOTE]
 > These peer-led presentations form an essential part of the course curriculum, where student-driven research bridges the gap between machine learning theory and applied computational modeling.
